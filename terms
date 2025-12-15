@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use and License - OurStarsClub</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 50px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 24px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+        }
+        .subtitle {
+            text-align: center;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 5px;
+        }
+        .date {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-bottom: 40px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        h2 {
+            background-color: #f0f2f5;
+            color: #2980b9;
+            padding: 10px 15px;
+            font-size: 1.2em;
+            margin-top: 40px;
+            border-left: 5px solid #2980b9;
+            border-radius: 4px;
+        }
+        h3 {
+            color: #34495e;
+            font-size: 1.1em;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .copyright-section {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 30px;
+            margin-top: 60px;
+            border-radius: 8px;
+            font-size: 0.9em;
+        }
+        .copyright-section h2 {
+            background: none;
+            border: none;
+            color: #ecf0f1;
+            padding: 0;
+            margin-top: 0;
+            border-bottom: 1px solid #7f8c8d;
+            padding-bottom: 10px;
+        }
+        .copyright-section strong {
+            color: #fff;
+        }
+        /* Mobile adjustment */
+        @media (max-width: 600px) {
+            .container {
+                margin: 0;
+                padding: 20px;
+                border-radius: 0;
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>END USER LICENSE AGREEMENT</h1>
+        <div class="subtitle">PART 1: INTRODUCTION AND LICENSE TERMS</div>
+        <div class="date">Last updated: May 29, 2027</div>
+
+        <p>This document is a License Agreement between you ("end user") and <strong>OurStarsClub</strong>, located in Vitória (Espírito Santo), Brazil (the "Licensor"), for the use of the "OurStarsClub" application.</p>
+
+        <p>By downloading this application ("Licensed Application") from the Apple App Store or Google Play Store (collectively, "Services"), you fully agree to the terms herein. It is important to note that the "Services" (Apple and Google) are not parties to this agreement and bear no responsibility for the application, its content, warranty, or maintenance. Responsibility for the Licensed Application and its content rests solely with the Licensor.</p>
+
+        <p>This agreement does not conflict with Apple's or Google's terms of service.</p>
+
+        <h3>1. THE APPLICATION</h3>
+        <p>"OurStarsClub" is a mobile application (iOS, Android) created as a casual gaming environment and online world for chatting, making friends, and forming communities. It is also used to sell in-game items and currency, as well as offering chat features and prize counting.</p>
+        <p><em>Important Notice:</em> This application was not developed in compliance with specific industry regulations, such as the Health Insurance Portability and Accountability Act (HIPAA) or information security laws like FISMA and GLBA. Therefore, if your activities are subject to these laws, you should not use this application.</p>
+
+        <h3>2. SCOPE OF LICENSE</h3>
+        <ul>
+            <li><strong>2.1 Right to Use:</strong> You are granted a personal, non-exclusive, non-transferable, and non-sublicensable license to install and use the application on devices you own or control. Use is permitted in accordance with app store rules, including access via accounts associated through Family Sharing or volume purchasing.</li>
+            <li><strong>2.2 Updates:</strong> This license also applies to all future updates unless an update is accompanied by a specific new license, which will then prevail.</li>
+            <li><strong>2.3 Distribution Restrictions:</strong> You may not sell, rent, lend, share, or redistribute the application to third parties, except as permitted by Usage Rules and with the Licensor's prior written consent.</li>
+            <li><strong>2.4 Prohibition on Modification:</strong> You are prohibited from reverse engineering, translating, disassembling, decompiling, modifying, or creating derivative works based on the application or its source code unless you have prior written authorization from the Licensor.</li>
+        </ul>
+
+        <h3>3. TECHNICAL REQUIREMENTS</h3>
+        <ul>
+            <li><strong>3.1 Firmware:</strong> The application requires firmware version 1.0.0 or higher. Using the latest available version is recommended.</li>
+            <li><strong>3.2 User Responsibility:</strong> It is your responsibility to verify if your device meets the technical specifications necessary to use the application.</li>
+            <li><strong>3.3 Modifications:</strong> The Licensor reserves the right to modify technical specifications at any time as deemed appropriate.</li>
+        </ul>
+
+        <h2>PART 2: USER DATA, CONTENT, AND CONDUCT</h2>
+
+        <h3>4. NO MAINTENANCE OR SUPPORT</h3>
+        <p>It is established that OurStarsClub has no obligation, express or implied, to provide maintenance, technical support, or any other assistance services for the Licensed Application. The platforms (Apple and Google) also have no obligation to provide such services.</p>
+
+        <h3>5. DATA USAGE</h3>
+        <p>By using the application, you acknowledge and agree that:</p>
+        <ul>
+            <li><strong>Access to Data:</strong> The Licensor may access content you download in the application and your personal information, in accordance with the privacy policy.</li>
+            <li><strong>Technical Data Collection:</strong> The Licensor may collect and use technical data from your device, system, and software (anonymously, not personally identifying you) for support, updates, and product/service improvement purposes.</li>
+        </ul>
+
+        <h3>6. USER GENERATED CONTRIBUTIONS</h3>
+        <p>The application allows you to create, submit, and share various types of content, such as text, videos, photos, comments, and information (collectively, "Contributions").</p>
+        
+        <p><strong>6.1 Your Warranties and Responsibilities:</strong></p>
+        <p>By creating or sharing any Contribution, you represent and warrant that:</p>
+        <ul>
+            <li><strong>Ownership and Rights:</strong> You are the creator and owner of your Contributions or possess all necessary licenses and permissions to use them and authorize us to use them.</li>
+            <li><strong>Third-Party Authorization:</strong> You have obtained written consent from all identifiable persons in your Contributions to use their names or images in the application.</li>
+            <li><strong>Accuracy:</strong> Your contributions are not false, inaccurate, or misleading.</li>
+            <li><strong>Intellectual Property:</strong> Your contributions do not violate copyrights, patents, trademarks, or any other proprietary rights of third parties.</li>
+        </ul>
+
+        <p><strong>6.2 Rules of Conduct and Prohibited Content:</strong></p>
+        <p>Your contributions must not:</p>
+        <ul>
+            <li>Be obscene, lewd, violent, defamatory, slanderous, or otherwise objectionable.</li>
+            <li>Ridicule, mock, intimidate, or abuse anyone.</li>
+            <li>Harass, threaten, or promote violence against any person or group.</li>
+            <li>Violate any law, regulation, or third-party right to privacy.</li>
+            <li>Contain child pornography or any content intended to harm minors.</li>
+            <li>Include offensive comments related to race, nationality, gender, sexual orientation, or disability.</li>
+            <li>Contain unsolicited advertising, spam, pyramid schemes, or chain letters.</li>
+            <li>Violate any term of this License Agreement.</li>
+        </ul>
+        <p>Violation of these rules may result in the immediate termination or suspension of your rights to use the application.</p>
+
+        <h3>7. CONTRIBUTION LICENSE GRANTED TO LICENSOR</h3>
+        <p>By posting your Contributions in the application, you grant us a worldwide, unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, and royalty-free license to use, copy, reproduce, distribute, sell, publicly display, reformat, translate, and exploit your Contributions for any purpose (including commercial and advertising).</p>
+        <ul>
+            <li><strong>Ownership:</strong> You retain full ownership of your Contributions. We do not claim ownership of them.</li>
+            <li><strong>Disclaimer:</strong> You are solely responsible for your Contributions and agree to indemnify us for any liability or legal action related to them.</li>
+            <li><strong>Moderation:</strong> We reserve the right, at our discretion, to edit, move, or delete any Contribution at any time without prior notice, although we have no obligation to actively monitor them.</li>
+        </ul>
+
+        <h2>PART 3: WARRANTIES, LIABILITIES, AND DISCLAIMERS</h2>
+
+        <h3>8. LICENSOR LIABILITY AND DISCLAIMERS</h3>
+        <p>This section details the limits of the Licensor's liability and responsibilities that are exclusively the user's.</p>
+        
+        <ul>
+            <li><strong>8.1 Limitation of Liability:</strong> The Licensor's liability for violations of this agreement is limited to cases of intent and gross negligence. In case of violation of essential contractual obligations, liability for slight negligence will be limited to foreseeable damages. This limitation does not apply to damages to life, health, or physical integrity.</li>
+            <li><strong>8.2 General Disclaimers:</strong> The author/licensor is not responsible for:
+                <ul>
+                    <li>User Acts (illegal, criminal, unethical).</li>
+                    <li>External content shared on other networks.</li>
+                    <li>Use by minors (parental responsibility).</li>
+                    <li>Technical failures, data leaks, account loss, financial or electrical damages.</li>
+                    <li>Personal damages resulting from interactions with other users.</li>
+                    <li>Service unavailability (server issues, force majeure).</li>
+                    <li>Access problems (internet, geographic blocking).</li>
+                </ul>
+            </li>
+            <li><strong>8.3 User Conduct and Moderation:</strong> The application offers tools to report abusive behavior. Reports will be analyzed and may result in warnings, suspension, or bans. However, as it is a global platform, there is no 100% active moderation. The author does not guarantee immediate verification of all content.</li>
+            <li><strong>8.4 Cooperation with Authorities:</strong> In the event of a crime, the injured user must contact authorities. Technical cooperation will occur only upon a valid court order.</li>
+        </ul>
+
+        <h3>9. PRODUCT WARRANTY</h3>
+        <ul>
+            <li><strong>9.1 Limited Warranty:</strong> The Licensor warrants that the application is free of spyware, viruses, or other malware at the time of download and functions as described. This warranty does not cover problems arising from modification or misuse.</li>
+            <li><strong>9.2 Verification and Claims:</strong> You must inspect the application immediately and notify the Licensor of defects within 100 days.</li>
+            <li><strong>9.3 Store Refund:</strong> In the event of a failure covered by the warranty, you may notify the store (Apple/Google) for a possible refund of the purchase price, as permitted by law.</li>
+        </ul>
+
+        <h3>10. GENERAL PRODUCT CLAIMS</h3>
+        <p>It is acknowledged that the Licensor (and not Apple or Google) is responsible for addressing any claims made by you or third parties related to the application.</p>
+
+        <h2>PART 4: LEGAL CLAUSES AND FINAL PROVISIONS</h2>
+
+        <h3>11. LEGAL COMPLIANCE (US EMBARGO)</h3>
+        <p>You represent and warrant that you are not located in a country subject to a US government embargo or designated as a country supporting terrorism, and that your name does not appear on any US government list of prohibited parties.</p>
+
+        <h3>12. CONTACT INFORMATION</h3>
+        <p>For general questions, complaints, or any matter related to this Agreement, please contact:</p>
+        <p><strong>Entity:</strong> OurStarsClub<br>
+        <strong>Location:</strong> Vitória, Espírito Santo, Brazil<br>
+        <strong>Email:</strong> <a href="mailto:support@ourstars.club">support@ourstars.club</a></p>
+
+        <h3>13. TERMINATION OF AGREEMENT</h3>
+        <p>This license is valid until terminated. Your rights to use will terminate automatically if you violate any of the terms. Upon termination, you must stop using the application.</p>
+
+        <h3>14. THIRD-PARTY BENEFICIARIES (APPLE AND GOOGLE)</h3>
+        <p>You acknowledge that Apple and Google are third-party beneficiaries of this agreement and have the right to enforce this agreement against you.</p>
+
+        <h3>15. INTELLECTUAL PROPERTY RIGHTS</h3>
+        <p>All content of the "OurStarsClub" application — including source code, scripts, design, graphics, sounds, and characters — is the exclusive property of <strong>OurStarsClub</strong>.</p>
+        <ul>
+            <li><strong>Prohibitions:</strong> Copying, cloning, modifying, or using the content without permission is strictly prohibited.</li>
+            <li><strong>Third-Party Claims:</strong> The Licensor will be responsible for investigating IP infringement claims.</li>
+            <li><strong>User Content Sharing:</strong> You may share screenshots on social media, provided you do not alter the content, use it for commercial/deceptive purposes, or associate it with illegal speech.</li>
+        </ul>
+
+        <h3>16. APPLICABLE LAW</h3>
+        <p>This License Agreement is governed by the laws of the Federative Republic of Brazil.</p>
+
+        <h3>17. MISCELLANEOUS PROVISIONS</h3>
+        <ul>
+            <li><strong>Age Recommendation:</strong> Recommended for ages 16+. Minors must have parental supervision.</li>
+            <li><strong>Ban and Fraud:</strong> The author may ban accounts that violate terms, without the right to a refund.</li>
+            <li><strong>Updates:</strong> The agreement may be updated at any time.</li>
+        </ul>
+
+        <h3>18. AUTOMATIC DATA COLLECTION AND IDENTIFIERS</h3>
+        <p>By using the "OurStarsClub" application, you agree to the automatic collection of certain information (IP, MAC, Device, etc.) for security and authentication, as detailed in the Privacy Policy.</p>
+
+        <h3>19. DISCLAIMER FOR FAILURES</h3>
+        <p>The Licensor is not responsible for losses, damages, or unavailability caused by technical failures, natural disasters, or loss of user data (items, currency, etc.).</p>
+
+        <h3>20. AUTOMATIC ACCEPTANCE OF TERMS</h3>
+        <p>By accessing or using the application, the user automatically declares to have read, understood, and fully accepted the current terms. Maintaining an active account represents continuous acceptance.</p>
+
+        <!-- COPYRIGHT SECTION -->
+        <div class="copyright-section">
+            <h2>COPYRIGHT AND INTELLECTUAL PROPERTY NOTICE</h2>
+            <p><strong>OurStarsClub - Proprietary Software</strong></p>
+            <p><strong>Copyright (c) 2027 OurStarsClub. All Rights Reserved.</strong></p>
+            
+            <p>This software and its associated documentation files (the "Software") are the proprietary and confidential property of OurStarsClub. Unauthorized copying, modification, distribution, or use of this Software by any means is strictly prohibited.</p>
+
+            <h3>USAGE RESTRICTIONS</h3>
+            <ul>
+                <li>You may NOT copy, reproduce, or duplicate the Software.</li>
+                <li>You may NOT modify, adapt, reverse engineer, or decompile the source code.</li>
+                <li>You may NOT remove proprietary notices.</li>
+                <li>You may NOT distribute or sell the Software without authorization.</li>
+            </ul>
+
+            <h3>NO WARRANTY</h3>
+            <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM OR DAMAGES.</p>
+
+            <p><strong>ALL RIGHTS RESERVED.</strong></p>
+        </div>
+
+    </div>
+
+</body>
+</html>
