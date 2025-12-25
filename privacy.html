@@ -5,198 +5,947 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - OurStars</title>
     <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            background-color: #f9f9f9;
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background-color: #f8f9fa;
+            padding: 20px;
         }
         .container {
-            max-width: 800px;
-            margin: 40px auto;
+            max-width: 950px;
+            margin: 0 auto;
             background: #fff;
-            padding: 40px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            border-radius: 8px;
+            padding: 45px 55px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
         }
         h1 {
-            color: #2c3e50;
-            text-align: center;
+            color: #1a252f;
+            font-size: 2.2rem;
             margin-bottom: 10px;
         }
         .last-updated {
-            text-align: center;
-            color: #7f8c8d;
-            font-size: 0.9em;
-            margin-bottom: 40px;
-            border-bottom: 1px solid #eee;
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 30px;
             padding-bottom: 20px;
+            border-bottom: 3px solid #3498db;
         }
         h2 {
-            color: #2c3e50;
-            margin-top: 35px;
-            border-bottom: 2px solid #f0f0f0;
-            padding-bottom: 10px;
-            font-size: 1.4em;
+            color: #1a252f;
+            font-size: 1.5rem;
+            margin: 35px 0 18px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #ecf0f1;
         }
         h3 {
-            color: #34495e;
-            font-size: 1.1em;
-            margin-top: 20px;
-            margin-bottom: 10px;
+            color: #2c3e50;
+            font-size: 1.15rem;
+            margin: 22px 0 12px;
         }
         p {
-            margin-bottom: 15px;
+            margin-bottom: 16px;
             text-align: justify;
         }
-        ul {
-            margin-bottom: 15px;
-            padding-left: 20px;
+        ul, ol {
+            margin: 12px 0 20px 28px;
         }
         li {
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }
-        strong {
-            color: #2c3e50;
+        .intro-box {
+            background: linear-gradient(135deg, #e8f4fc 0%, #f0f7fb 100%);
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border-left: 5px solid #3498db;
+        }
+        .warning-box {
+            background: #fff3cd;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 18px 0;
+            border-left: 5px solid #ffc107;
+        }
+        .important-box {
+            background: #f8d7da;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 18px 0;
+            border-left: 5px solid #dc3545;
+        }
+        .info-box {
+            background: #d1ecf1;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 18px 0;
+            border-left: 5px solid #17a2b8;
+        }
+        .success-box {
+            background: #d4edda;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 18px 0;
+            border-left: 5px solid #28a745;
+        }
+        .section {
+            margin-bottom: 35px;
+        }
+        .subsection {
+            margin-left: 15px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin-bottom: 18px;
+            border: 1px solid #e9ecef;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #dee2e6;
+        }
+        th {
+            background: #3498db;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        .contact-info {
+            background: #2c3e50;
+            color: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+        .contact-info a {
+            color: #3498db;
         }
         a {
-            color: #3498db;
+            color: #2980b9;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
-        /* Mobile adjustment */
-        @media (max-width: 600px) {
-            .container {
-                margin: 0;
-                padding: 20px;
-                border-radius: 0;
-                box-shadow: none;
-            }
+        .toc {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .toc h3 {
+            margin-top: 0;
+        }
+        .toc ol {
+            margin-bottom: 0;
+        }
+        .toc a {
+            color: #2c3e50;
         }
     </style>
 </head>
 <body>
-
     <div class="container">
-        <h1>PRIVACY POLICY – OurStars</h1>
-        <div class="last-updated">Last updated: December 15, 2025</div>
-
-        <p>This Privacy Policy explains how OurStars ("we", "us", or "our") collects, uses, stores, and protects information when you access or use our online services, including the OurStars game, website, and related platforms (collectively, the “Services”).</p>
-
-        <p>By using OurStars, you acknowledge that this is an online application and that certain technical and personal data must be processed to ensure security, stability, and proper operation of the Services. By finalizing your registration, you agree to the terms in this document.</p>
-
-        <h2>1. Information We Collect</h2>
-        <p>We collect information necessary to operate, secure, and optimize our online Services, including hardware telemetry for security profiling.</p>
-
-        <h3>a) Information You Provide to Us</h3>
-        <ul>
-            <li><strong>Account Information:</strong> When you create an account, we collect identifiers such as Username and Email address.</li>
-            <li><strong>User Content:</strong> We collect content you voluntarily submit, such as in-game messages, images, and support tickets.</li>
-            <li><strong>Transaction Data:</strong> We retain logs of purchases (e.g., dates, items purchased) for tax, legal, and support purposes, though we do not store full credit card numbers (handled by third-party processors).</li>
-        </ul>
-
-        <h3>b) Automatic Data Collection & Hardware Telemetry</h3>
-        <p>By registering, you authorize us to capture and store technical data from your device to ensure fair play and system integrity, including:</p>
-        <ul>
-            <li><strong>IP Address:</strong> For location and security logging.</li>
-            <li><strong>MAC Address & Hardware IDs:</strong> To uniquely identify your machine.</li>
-            <li><strong>Usage Data:</strong> Connection timestamps, session duration, and error logs.</li>
-        </ul>
-
-        <h3>c) Cookies</h3>
-        <p>We use essential cookies for authentication and session management.</p>
-
-        <h2>2. Monitoring of Communications</h2>
-        <p>To ensure the safety and civility of the community, we reserve the right to monitor content on our servers.</p>
-        <ul>
-            <li><strong>Moderation:</strong> You acknowledge that  Administrators may review in-game communications and private messages (PMs/DMs) strictly when investigating reports of misconduct, harassment, illegal activity, or Terms of Service violations.</li>
-            <li><strong>Privacy:</strong> While we respect your privacy, we cannot guarantee absolute confidentiality for communications sent through our game servers if valid safety concerns arise.</li>
-        </ul>
-
-        <h2>3. How We Use Your Information</h2>
-        <p>We use collected data for legitimate operational purposes, including:</p>
-        <ul>
-            <li>Providing and maintaining the online Services.</li>
-            <li>Authenticating users and managing accounts.</li>
-            <li>Preventing fraud, abuse, cheating, and unauthorized access.</li>
-            <li>Complying with legal obligations.</li>
-        </ul>
-
-        <h2>4. Account Deletion, Data Retention, and Security Quarantine</h2>
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last Updated: December 25, 2024 | Effective Date: December 25, 2024</p>
         
-        <h3>a) Right to Delete (Account Closure)</h3>
-        <p>You have the right to request the deletion of your account at any time. To initiate this process, you must contact our support team.</p>
+        <div class="intro-box">
+            <p><strong>Welcome to OurStars.</strong> Your privacy is critically important to us. This Privacy Policy explains how OurStars ("Company," "we," "us," or "our") collects, uses, discloses, and safeguards your information when you visit our website, play our games, or use any of our products and services (collectively, the "Services").</p>
+            <p>By accessing or using our Services, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access or use our Services.</p>
+        </div>
 
-        <h3>b) Security Retention Period (1 to 2 Years)</h3>
-        <p>Upon your request for deletion, your account access will be immediately blocked/deactivated. However, strictly for security purposes, fraud prevention, anti-cheat enforcement, and legal compliance, <strong>your data will remain stored on our secure servers for a period of 1 to 2 years (12 to 24 months)</strong>.</p>
+        <div class="toc">
+            <h3>Table of Contents</h3>
+            <ol>
+                <li><a href="#information-we-collect">Information We Collect</a></li>
+                <li><a href="#how-we-use">How We Use Your Information</a></li>
+                <li><a href="#information-sharing">Information Sharing and Disclosure</a></li>
+                <li><a href="#data-retention">Data Retention</a></li>
+                <li><a href="#data-security">Data Security</a></li>
+                <li><a href="#cookies">Cookies and Tracking Technologies</a></li>
+                <li><a href="#third-party">Third-Party Services</a></li>
+                <li><a href="#childrens-privacy">Children's Privacy</a></li>
+                <li><a href="#your-rights">Your Privacy Rights</a></li>
+                <li><a href="#international">International Data Transfers</a></li>
+                <li><a href="#california">California Privacy Rights (CCPA)</a></li>
+                <li><a href="#european">European Privacy Rights (GDPR)</a></li>
+                <li><a href="#do-not-track">Do Not Track Signals</a></li>
+                <li><a href="#changes">Changes to This Policy</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ol>
+        </div>
 
-        <h3>c) Permanent Deletion</h3>
-        <p>After the retention period expires, all personal identifiers and data associated with your account will be permanently deleted from our live databases, provided there are no active legal disputes or investigations involving the account.</p>
+        <div class="section" id="information-we-collect">
+            <h2>1. Information We Collect</h2>
+            <p>We collect information in several ways when you access or use our Services. This includes information you provide directly, information collected automatically, and information from third-party sources.</p>
 
-        <h2>5. Virtual Goods, Refund Policy, and Termination</h2>
+            <div class="subsection">
+                <h3>1.1 Information You Provide Directly</h3>
+                <p>We collect personal information that you voluntarily provide when using our Services, including but not limited to:</p>
+                
+                <h4 style="margin-top: 15px; color: #34495e;">Account Registration Information</h4>
+                <ul>
+                    <li>Email address (required for account creation and communication)</li>
+                    <li>Username (publicly visible to other users)</li>
+                    <li>Password (stored in encrypted format)</li>
+                    <li>Profile picture or avatar</li>
+                    <li>Date of birth or age verification</li>
+                    <li>Country or region of residence</li>
+                    <li>Preferred language settings</li>
+                    <li>Any additional optional profile information you choose to provide</li>
+                </ul>
 
-        <h3>a) Nature of Digital Items (Consumables)</h3>
-        <p>You acknowledge that "Gems," "Coins," and other in-game items ("Virtual Goods") are digital content that serves as a limited, non-transferable, revocable license to use a feature within the Service.</p>
-        <ul>
-            <li><strong>Consumable Service:</strong> Similar to consumable physical goods (e.g., food), once Virtual Goods are delivered to your account or used, the service is considered "fully executed" and cannot be returned or restored.</li>
-            <li><strong>No Ownership:</strong> You do not own Virtual Goods; you hold a license to use them while your account is active.</li>
-        </ul>
+                <div class="warning-box">
+                    <strong>Important Notice:</strong> We strongly recommend that you do not include sensitive personal information (such as real name, address, phone number, or financial information) in your username, profile bio, or any publicly visible content. You are solely responsible for any information you choose to make public.
+                </div>
 
-        <h3>b) Ban Policy and Forfeiture</h3>
-        <p>We reserve the right to suspend or terminate accounts that violate our rules (e.g., cheating, hacking, toxicity, or terms violation).</p>
-        <ul>
-            <li><strong>Breach of Contract:</strong> A ban is a result of a breach of contract on your part. In the event of an account termination due to such violations, <strong>you forfeit all licenses to Virtual Goods and balances.</strong></li>
-            <li><strong>No Refunds on Bans:</strong> You acknowledge that OurStars is not liable to provide refunds for any unused Virtual Goods or time if your account is banned for violating our Terms of Service.</li>
-        </ul>
+                <h4 style="margin-top: 15px; color: #34495e;">User-Generated Content</h4>
+                <ul>
+                    <li>In-game messages, chat logs, and communications with other users</li>
+                    <li>Images, screenshots, and media uploaded or captured within our Services</li>
+                    <li>Comments, posts, and forum contributions</li>
+                    <li>Custom content, creations, and modifications</li>
+                    <li>Virtual items, inventory, and in-game assets</li>
+                    <li>Game preferences, settings, and configurations</li>
+                    <li>Friend lists and social connections within our platform</li>
+                </ul>
 
-        <h3>c) Refund Exceptions (Fraud Only)</h3>
-        <p>Refunds are strictly limited to technical errors (non-delivery of items) or proven unauthorized transactions (fraud). We do not offer refunds for "change of mind" or for accounts that have been suspended due to misconduct.</p>
+                <h4 style="margin-top: 15px; color: #34495e;">Payment and Transaction Information</h4>
+                <p>When you make purchases or transactions through our Services, we may collect:</p>
+                <ul>
+                    <li>Billing name and address</li>
+                    <li>Payment method details (processed securely by third-party payment processors)</li>
+                    <li>Transaction history, including dates, amounts, and items purchased</li>
+                    <li>Currency preferences</li>
+                    <li>Tax identification information (where required by law)</li>
+                    <li>Refund and dispute history</li>
+                </ul>
 
-        <h2>6. Data Security</h2>
-        <p>We apply industry-standard protections, including:</p>
-        <ul>
-            <li>Encrypted data transmission (HTTPS / TLS).</li>
-            <li>Secure password hashing (e.g., bcrypt).</li>
-            <li>Access controls.</li>
-        </ul>
-        <p>Despite all efforts, no online system is 100% secure. You acknowledge the inherent risks of providing information online.</p>
+                <div class="info-box">
+                    <strong>Payment Security:</strong> We do not store complete credit card numbers, CVV codes, or full payment credentials on our servers. All payment processing is handled by PCI-DSS compliant third-party payment processors (such as PayPal, Stripe, or similar services), each governed by their own privacy policies.
+                </div>
 
-        <h2>7. How We Share Your Information</h2>
-        <p>We do not sell personal data. Information is shared only when strictly necessary:</p>
-        <ul>
-            <li><strong>Service Providers:</strong> Trusted infrastructure providers under confidentiality agreements.</li>
-            <li><strong>Legal Requirements:</strong> When required by law, court order, or valid legal process.</li>
-        </ul>
+                <h4 style="margin-top: 15px; color: #34495e;">Communications and Support</h4>
+                <ul>
+                    <li>Customer support inquiries and correspondence</li>
+                    <li>Bug reports and feedback submissions</li>
+                    <li>Survey responses and questionnaire answers</li>
+                    <li>Contest, sweepstakes, or promotion entries</li>
+                    <li>Newsletter and marketing communication preferences</li>
+                    <li>Any other information you choose to provide in communications with us</li>
+                </ul>
 
-        <h2>8. International Data Transfers</h2>
-        <p>OurStars operates globally. By using the Services, you agree that your information may be transferred, stored, and processed on servers located outside your country of residence.</p>
+                <h4 style="margin-top: 15px; color: #34495e;">Referral and Invitation Features</h4>
+                <p>If you use our "Invite a Friend" or referral features, we may collect:</p>
+                <ul>
+                    <li>Your name and email address</li>
+                    <li>Your friend's name and email address</li>
+                    <li>Custom invitation messages you create</li>
+                </ul>
+                <p>This information is used solely for sending the invitation and tracking referral rewards. We do not permanently store your friend's information unless they create an account.</p>
+            </div>
 
-        <h2>9. Minors and Parental Responsibility</h2>
-        
-        <h3>a) Parental Supervision</h3>
-        <p>If you are under the age of majority in your jurisdiction (a "Minor"), you may only use the Services with the approval and supervision of a parent or legal guardian.</p>
+            <div class="subsection">
+                <h3>1.2 Information Collected Automatically</h3>
+                <p>When you access or use our Services, we automatically collect certain technical and usage information, including:</p>
 
-        <h3>b) Responsibility</h3>
-        <p>Parents or guardians are responsible for interpreting these terms for the Minor and for the Minor’s use of the Services. We encourage parents to monitor their children's online activity.</p>
+                <h4 style="margin-top: 15px; color: #34495e;">Device and Technical Information</h4>
+                <ul>
+                    <li>IP address (Internet Protocol address)</li>
+                    <li>Device identifiers (including unique device ID, hardware ID, IMEI, MAC address)</li>
+                    <li>Device type, model, and manufacturer</li>
+                    <li>Operating system type and version</li>
+                    <li>Browser type, version, and language settings</li>
+                    <li>Screen resolution and display settings</li>
+                    <li>Time zone and regional settings</li>
+                    <li>Mobile network information and carrier</li>
+                    <li>Internet service provider (ISP)</li>
+                    <li>Hardware specifications (CPU, GPU, RAM)</li>
+                </ul>
 
-        <h3>c) Parental Rights</h3>
-        <p>Parents have the right to review the personal information collected from their child and may request the deletion of such information by contacting support.</p>
+                <h4 style="margin-top: 15px; color: #34495e;">Usage and Analytics Data</h4>
+                <ul>
+                    <li>Date and time of access</li>
+                    <li>Session duration and frequency</li>
+                    <li>Pages viewed and navigation paths</li>
+                    <li>Features used and interactions performed</li>
+                    <li>Search queries and terms used within our Services</li>
+                    <li>Referring URLs and exit pages</li>
+                    <li>Click patterns and scroll behavior</li>
+                    <li>Error logs, crash reports, and performance data</li>
+                </ul>
 
-        <h2>10. Updates to This Policy</h2>
-        <p>We may update this Privacy Policy from time to time.</p>
-        <ul>
-            <li><strong>Notification:</strong> We will notify you of any material changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</li>
-            <li><strong>Acceptance:</strong> Continued use of the Services after such changes constitutes acceptance of the new terms.</li>
-        </ul>
+                <h4 style="margin-top: 15px; color: #34495e;">Game-Specific Data</h4>
+                <ul>
+                    <li>Gameplay statistics and performance metrics</li>
+                    <li>Achievement progress and completion data</li>
+                    <li>In-game actions, decisions, and behaviors</li>
+                    <li>Multiplayer interactions and match history</li>
+                    <li>Leaderboard rankings and competitive statistics</li>
+                    <li>Tutorial completion and learning progress</li>
+                    <li>Virtual economy transactions and balances</li>
+                </ul>
 
-        <h2>11. Contact Information</h2>
-        <p>If you have questions regarding your data, account status, or to request account deletion, please contact us at:</p>
-        <p><strong>Email:</strong> <a href="mailto:support@ourstars.club">support@ourstars.club</a></p>
+                <div class="warning-box">
+                    <strong>Public Visibility:</strong> Some gameplay statistics and achievements may be visible to other players through leaderboards, profiles, or social features. You can manage visibility settings in your account preferences where available.
+                </div>
+            </div>
+
+            <div class="subsection">
+                <h3>1.3 Location Information</h3>
+                <p>Subject to your device permissions and settings, we may collect location data including:</p>
+                <ul>
+                    <li>Precise GPS location (with your explicit consent)</li>
+                    <li>Approximate location based on IP address</li>
+                    <li>Wi-Fi access point information</li>
+                    <li>Cell tower triangulation data</li>
+                    <li>Billing address and postal code</li>
+                    <li>Country and region derived from device settings</li>
+                </ul>
+                <p>Location data helps us provide localized content, comply with regional regulations, prevent fraud, and improve our Services. You can disable location services through your device settings at any time.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>1.4 Information from Third Parties</h3>
+                <p>We may receive information about you from various third-party sources, including:</p>
+                
+                <h4 style="margin-top: 15px; color: #34495e;">Social Media Platforms</h4>
+                <p>If you connect your account to social media services (such as Facebook, Google, Discord, Twitter, Apple, Steam, or others), we may receive:</p>
+                <ul>
+                    <li>Basic profile information (name, profile picture, email)</li>
+                    <li>Friend lists and social connections (with your permission)</li>
+                    <li>Public profile data as permitted by your privacy settings</li>
+                    <li>Authentication tokens for login purposes</li>
+                </ul>
+
+                <h4 style="margin-top: 15px; color: #34495e;">Business Partners and Service Providers</h4>
+                <ul>
+                    <li>App stores and distribution platforms (Apple App Store, Google Play, Steam)</li>
+                    <li>Payment processors and financial institutions</li>
+                    <li>Analytics and advertising partners</li>
+                    <li>Anti-fraud and security services</li>
+                    <li>Customer support platforms</li>
+                    <li>Marketing and promotional partners</li>
+                </ul>
+
+                <h4 style="margin-top: 15px; color: #34495e;">Publicly Available Sources</h4>
+                <ul>
+                    <li>Public databases and directories</li>
+                    <li>Government records (where legally permitted)</li>
+                    <li>Social media profiles set to public</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="how-we-use">
+            <h2>2. How We Use Your Information</h2>
+            <p>We use the information we collect for various purposes to provide, maintain, improve, and protect our Services, as well as to communicate with you. Specifically, we use your information to:</p>
+
+            <div class="subsection">
+                <h3>2.1 Provide and Operate Our Services</h3>
+                <ul>
+                    <li>Create, manage, and authenticate your account</li>
+                    <li>Process transactions and fulfill purchases</li>
+                    <li>Deliver in-game content, virtual items, and features</li>
+                    <li>Enable multiplayer functionality and social features</li>
+                    <li>Provide customer support and respond to inquiries</li>
+                    <li>Send service-related communications (account verification, security alerts, updates)</li>
+                    <li>Maintain leaderboards, achievements, and competitive features</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.2 Improve and Personalize Our Services</h3>
+                <ul>
+                    <li>Analyze usage patterns to improve game design and user experience</li>
+                    <li>Personalize content, recommendations, and in-game experiences</li>
+                    <li>Conduct research and development for new features</li>
+                    <li>Test and optimize performance, functionality, and design</li>
+                    <li>Understand player preferences and behavior</li>
+                    <li>Develop and improve matchmaking algorithms</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.3 Safety, Security, and Legal Compliance</h3>
+                <ul>
+                    <li>Detect, prevent, and address fraud, cheating, and unauthorized activities</li>
+                    <li>Enforce our Terms of Service and community guidelines</li>
+                    <li>Protect the rights, property, and safety of our users and the public</li>
+                    <li>Comply with legal obligations and respond to lawful requests</li>
+                    <li>Investigate and resolve disputes and security incidents</li>
+                    <li>Implement and maintain security measures</li>
+                    <li>Verify age and identity where required</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.4 Marketing and Communications</h3>
+                <ul>
+                    <li>Send promotional materials, newsletters, and special offers (with your consent)</li>
+                    <li>Notify you about new features, games, and updates</li>
+                    <li>Conduct surveys and collect feedback</li>
+                    <li>Administer contests, sweepstakes, and promotions</li>
+                    <li>Deliver targeted advertising based on your interests (where permitted)</li>
+                </ul>
+                <p>You can opt out of marketing communications at any time by following the unsubscribe instructions in our emails or adjusting your account settings.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>2.5 Legal Basis for Processing (GDPR)</h3>
+                <p>For users in the European Economic Area (EEA), United Kingdom, and similar jurisdictions, we process your personal data based on the following legal grounds:</p>
+                <table>
+                    <tr>
+                        <th>Legal Basis</th>
+                        <th>Examples of Processing</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Contract Performance</strong></td>
+                        <td>Account creation, service delivery, transaction processing</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Legitimate Interests</strong></td>
+                        <td>Fraud prevention, security, analytics, service improvement</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Consent</strong></td>
+                        <td>Marketing communications, optional data collection, cookies</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Legal Obligation</strong></td>
+                        <td>Tax compliance, law enforcement requests, regulatory requirements</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="information-sharing">
+            <h2>3. Information Sharing and Disclosure</h2>
+            <p>We do not sell your personal information to third parties. However, we may share your information in the following circumstances:</p>
+
+            <div class="subsection">
+                <h3>3.1 Service Providers and Business Partners</h3>
+                <p>We share information with trusted third-party service providers who assist us in operating our Services, including:</p>
+                <ul>
+                    <li>Cloud hosting and infrastructure providers</li>
+                    <li>Payment processors and financial services</li>
+                    <li>Analytics and data analysis services</li>
+                    <li>Customer support and communication platforms</li>
+                    <li>Anti-fraud and security services</li>
+                    <li>Marketing and advertising partners</li>
+                    <li>Email delivery services</li>
+                </ul>
+                <p>These providers are contractually obligated to protect your information and may only use it for the specific purposes we authorize.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.2 Legal Requirements and Protection</h3>
+                <p>We may disclose your information when required by law or when we believe disclosure is necessary to:</p>
+                <ul>
+                    <li>Comply with legal processes, court orders, or government requests</li>
+                    <li>Enforce our Terms of Service and other agreements</li>
+                    <li>Protect our rights, property, or safety</li>
+                    <li>Protect the rights, property, or safety of our users or the public</li>
+                    <li>Detect, prevent, or address fraud, security, or technical issues</li>
+                    <li>Respond to emergency situations involving potential harm</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>3.3 Business Transfers</h3>
+                <p>In the event of a merger, acquisition, reorganization, bankruptcy, or sale of all or a portion of our assets, your information may be transferred as part of that transaction. We will notify you of any such change and any choices you may have regarding your information.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.4 With Your Consent</h3>
+                <p>We may share your information with third parties when you have given us explicit consent to do so, such as when you authorize a third-party application to access your account.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.5 Aggregated and De-identified Data</h3>
+                <p>We may share aggregated, anonymized, or de-identified information that cannot reasonably be used to identify you for research, analysis, marketing, or other purposes.</p>
+            </div>
+        </div>
+
+        <div class="section" id="data-retention">
+            <h2>4. Data Retention</h2>
+            <p>We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.</p>
+            
+            <div class="subsection">
+                <h3>4.1 Retention Periods</h3>
+                <table>
+                    <tr>
+                        <th>Data Type</th>
+                        <th>Retention Period</th>
+                    </tr>
+                    <tr>
+                        <td>Account Information</td>
+                        <td>Duration of account existence + 3 years after deletion</td>
+                    </tr>
+                    <tr>
+                        <td>Transaction Records</td>
+                        <td>7 years (for tax and legal compliance)</td>
+                    </tr>
+                    <tr>
+                        <td>Customer Support Records</td>
+                        <td>5 years from last interaction</td>
+                    </tr>
+                    <tr>
+                        <td>Analytics Data</td>
+                        <td>26 months (aggregated data may be kept longer)</td>
+                    </tr>
+                    <tr>
+                        <td>Marketing Preferences</td>
+                        <td>Until you withdraw consent or delete your account</td>
+                    </tr>
+                    <tr>
+                        <td>Security Logs</td>
+                        <td>1-3 years depending on type</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>4.2 Account Deletion</h3>
+                <p>When you request account deletion, we will:</p>
+                <ul>
+                    <li>Delete or anonymize your personal information within 30 days</li>
+                    <li>Retain certain information as required by law or for legitimate business purposes</li>
+                    <li>Remove your public profile and user-generated content (unless required for legal proceedings)</li>
+                    <li>Maintain anonymized analytics data that cannot identify you</li>
+                </ul>
+                <div class="warning-box">
+                    <strong>Note:</strong> Some information may persist in backup systems for a limited time. Content you shared with others or that was copied by other users may remain visible.
+                </div>
+            </div>
+        </div>
+
+        <div class="section" id="data-security">
+            <h2>5. Data Security</h2>
+            <p>We implement comprehensive technical, administrative, and physical security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.</p>
+
+            <div class="subsection">
+                <h3>5.1 Security Measures</h3>
+                <ul>
+                    <li><strong>Encryption:</strong> All data transmitted between your device and our servers is encrypted using TLS/SSL protocols. Sensitive data at rest is encrypted using industry-standard AES-256 encryption.</li>
+                    <li><strong>Access Controls:</strong> Strict access controls limit employee access to personal information on a need-to-know basis. All access is logged and monitored.</li>
+                    <li><strong>Authentication:</strong> We support and encourage the use of strong passwords and two-factor authentication (2FA) for account security.</li>
+                    <li><strong>Infrastructure Security:</strong> Our servers are hosted in secure, SOC 2 compliant data centers with 24/7 monitoring, firewalls, and intrusion detection systems.</li>
+                    <li><strong>Regular Audits:</strong> We conduct regular security assessments, penetration testing, and vulnerability scans.</li>
+                    <li><strong>Employee Training:</strong> All employees receive regular training on data protection and security best practices.</li>
+                    <li><strong>Incident Response:</strong> We maintain comprehensive incident response procedures to address potential security breaches.</li>
+                </ul>
+            </div>
+
+            <div class="important-box">
+                <strong>Security Disclaimer:</strong> While we strive to protect your personal information, no method of transmission over the Internet or electronic storage is 100% secure. We cannot guarantee absolute security. You are responsible for maintaining the confidentiality of your account credentials and for any activities that occur under your account.
+            </div>
+
+            <div class="subsection">
+                <h3>5.2 Your Security Responsibilities</h3>
+                <ul>
+                    <li>Use a strong, unique password for your account</li>
+                    <li>Enable two-factor authentication when available</li>
+                    <li>Never share your login credentials with others</li>
+                    <li>Log out of your account when using shared devices</li>
+                    <li>Keep your device and software updated</li>
+                    <li>Report any suspicious activity immediately</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>5.3 Data Breach Notification</h3>
+                <p>In the event of a data breach that affects your personal information, we will:</p>
+                <ul>
+                    <li>Notify affected users within 72 hours of discovery (or as required by applicable law)</li>
+                    <li>Provide information about the nature of the breach and data affected</li>
+                    <li>Describe the measures taken to address the breach</li>
+                    <li>Offer guidance on steps you can take to protect yourself</li>
+                    <li>Report to relevant regulatory authorities as required by law</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="cookies">
+            <h2>6. Cookies and Tracking Technologies</h2>
+            <p>We use cookies and similar tracking technologies to collect information, improve your experience, and deliver personalized content and advertising.</p>
+
+            <div class="subsection">
+                <h3>6.1 Types of Cookies We Use</h3>
+                <table>
+                    <tr>
+                        <th>Cookie Type</th>
+                        <th>Purpose</th>
+                        <th>Duration</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Essential Cookies</strong></td>
+                        <td>Required for basic functionality, authentication, and security</td>
+                        <td>Session / Persistent</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Performance Cookies</strong></td>
+                        <td>Collect analytics data to improve our Services</td>
+                        <td>Up to 2 years</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Functional Cookies</strong></td>
+                        <td>Remember your preferences and settings</td>
+                        <td>Up to 1 year</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Advertising Cookies</strong></td>
+                        <td>Deliver relevant advertisements and measure effectiveness</td>
+                        <td>Up to 2 years</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Social Media Cookies</strong></td>
+                        <td>Enable social sharing and integration features</td>
+                        <td>Varies by platform</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>6.2 Other Tracking Technologies</h3>
+                <ul>
+                    <li><strong>Web Beacons:</strong> Small graphic images used to track user behavior and email engagement</li>
+                    <li><strong>Pixel Tags:</strong> Code snippets that help us understand how you interact with our Services</li>
+                    <li><strong>Local Storage:</strong> Browser storage used to save preferences and improve performance</li>
+                    <li><strong>Device Fingerprinting:</strong> Collection of device attributes for security and fraud prevention</li>
+                    <li><strong>SDKs:</strong> Software development kits in our mobile apps that collect usage data</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>6.3 Managing Cookies</h3>
+                <p>You can control cookies through various methods:</p>
+                <ul>
+                    <li><strong>Browser Settings:</strong> Most browsers allow you to block or delete cookies through settings</li>
+                    <li><strong>Cookie Consent Tool:</strong> Use our cookie preference center to manage non-essential cookies</li>
+                    <li><strong>Opt-Out Links:</strong> Visit industry opt-out pages such as:
+                        <ul>
+                            <li>Network Advertising Initiative: <a href="https://optout.networkadvertising.org" target="_blank">optout.networkadvertising.org</a></li>
+                            <li>Digital Advertising Alliance: <a href="https://optout.aboutads.info" target="_blank">optout.aboutads.info</a></li>
+                            <li>European Interactive Digital Advertising Alliance: <a href="https://youronlinechoices.eu" target="_blank">youronlinechoices.eu</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="warning-box">
+                    <strong>Important:</strong> Disabling certain cookies may affect the functionality of our Services, including your ability to log in, save preferences, or access certain features.
+                </div>
+            </div>
+        </div>
+
+        <div class="section" id="third-party">
+            <h2>7. Third-Party Services</h2>
+            <p>Our Services may contain links to third-party websites, applications, or services that are not operated by us. We are not responsible for the privacy practices of these third parties.</p>
+
+            <div class="subsection">
+                <h3>7.1 Third-Party Integrations</h3>
+                <p>We integrate with various third-party services, including:</p>
+                <ul>
+                    <li><strong>Social Media Platforms:</strong> Facebook, Google, Discord, Twitter, Apple, Steam</li>
+                    <li><strong>Payment Processors:</strong> PayPal, Stripe, Apple Pay, Google Pay</li>
+                    <li><strong>Analytics Providers:</strong> Google Analytics, Firebase, Mixpanel</li>
+                    <li><strong>Advertising Networks:</strong> Google Ads, Facebook Ads, Unity Ads</li>
+                    <li><strong>Cloud Services:</strong> Amazon Web Services, Google Cloud Platform</li>
+                    <li><strong>Customer Support:</strong> Zendesk, Intercom</li>
+                </ul>
+                <p>Each third-party service has its own privacy policy governing the collection and use of your information. We encourage you to review their policies.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>7.2 Social Media Features</h3>
+                <p>Our Services may include social media features such as "Like" buttons, share buttons, or interactive widgets. These features may:</p>
+                <ul>
+                    <li>Collect your IP address and page information</li>
+                    <li>Set cookies to enable functionality</li>
+                    <li>Be hosted by the third party or directly on our Services</li>
+                </ul>
+                <p>Your interactions with these features are governed by the privacy policies of the companies providing them.</p>
+            </div>
+        </div>
+
+        <div class="section" id="childrens-privacy">
+            <h2>8. Children's Privacy</h2>
+            <p>Protecting children's privacy is especially important to us. Our Services are not intended for children under the age of 13 (or the applicable age of digital consent in your jurisdiction).</p>
+
+            <div class="important-box">
+                <strong>Age Restriction:</strong> We do not knowingly collect personal information from children under 13 years of age (or 16 in the EEA). If you are under the minimum age, please do not use our Services or provide any personal information.
+            </div>
+
+            <div class="subsection">
+                <h3>8.1 Parental Rights</h3>
+                <p>If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately. We will take steps to:</p>
+                <ul>
+                    <li>Verify the request and your relationship to the child</li>
+                    <li>Delete the child's personal information from our systems</li>
+                    <li>Terminate any account created by the child</li>
+                    <li>Prevent future collection of information from the child</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>8.2 COPPA Compliance (United States)</h3>
+                <p>We comply with the Children's Online Privacy Protection Act (COPPA). If we discover that we have collected information from a child under 13 without verifiable parental consent, we will delete that information as quickly as possible.</p>
+            </div>
+        </div>
+
+        <div class="section" id="your-rights">
+            <h2>9. Your Privacy Rights</h2>
+            <p>Depending on your location, you may have certain rights regarding your personal information. We are committed to honoring these rights and providing you with control over your data.</p>
+
+            <div class="subsection">
+                <h3>9.1 General Rights</h3>
+                <p>Subject to applicable law, you may have the right to:</p>
+                <ul>
+                    <li><strong>Access:</strong> Request a copy of the personal information we hold about you</li>
+                    <li><strong>Correction:</strong> Request correction of inaccurate or incomplete information</li>
+                    <li><strong>Deletion:</strong> Request deletion of your personal information</li>
+                    <li><strong>Portability:</strong> Receive your data in a structured, machine-readable format</li>
+                    <li><strong>Restriction:</strong> Request restriction of processing in certain circumstances</li>
+                    <li><strong>Objection:</strong> Object to processing based on legitimate interests</li>
+                    <li><strong>Withdraw Consent:</strong> Withdraw consent where processing is based on consent</li>
+                    <li><strong>Non-Discrimination:</strong> Not be discriminated against for exercising your rights</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>9.2 How to Exercise Your Rights</h3>
+                <p>To exercise any of these rights, you may:</p>
+                <ul>
+                    <li>Access your account settings to update or delete information</li>
+                    <li>Contact us using the information provided in the "Contact Us" section</li>
+                    <li>Submit a request through our privacy request portal</li>
+                </ul>
+                <p>We will respond to your request within 30 days (or as required by applicable law). We may need to verify your identity before processing your request.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>9.3 Appeals Process</h3>
+                <p>If we deny your request, you have the right to appeal our decision. To appeal, contact us with the subject line "Privacy Rights Appeal" and include:</p>
+                <ul>
+                    <li>Your original request details</li>
+                    <li>The reason for your appeal</li>
+                    <li>Any additional information supporting your request</li>
+                </ul>
+                <p>We will review your appeal and respond within 45 days.</p>
+            </div>
+        </div>
+
+        <div class="section" id="international">
+            <h2>10. International Data Transfers</h2>
+            <p>We operate globally and may transfer your personal information to countries other than your country of residence. These countries may have different data protection laws than your jurisdiction.</p>
+
+            <div class="subsection">
+                <h3>10.1 Transfer Mechanisms</h3>
+                <p>When we transfer personal information internationally, we use appropriate safeguards, including:</p>
+                <ul>
+                    <li><strong>Standard Contractual Clauses:</strong> EU-approved contractual terms for data transfers</li>
+                    <li><strong>Adequacy Decisions:</strong> Transfers to countries deemed adequate by relevant authorities</li>
+                    <li><strong>Binding Corporate Rules:</strong> Internal policies for intra-group transfers</li>
+                    <li><strong>Consent:</strong> Your explicit consent for specific transfers</li>
+                    <li><strong>Contractual Necessity:</strong> Transfers necessary to fulfill our contract with you</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>10.2 Data Storage Locations</h3>
+                <p>Your information may be stored and processed in:</p>
+                <ul>
+                    <li>United States</li>
+                    <li>European Union member states</li>
+                    <li>Other countries where our service providers operate</li>
+                </ul>
+                <p>Regardless of where your data is processed, we apply the same protections described in this Privacy Policy.</p>
+            </div>
+        </div>
+
+        <div class="section" id="california">
+            <h2>11. California Privacy Rights (CCPA/CPRA)</h2>
+            <p>If you are a California resident, you have specific rights under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA).</p>
+
+            <div class="subsection">
+                <h3>11.1 Your California Rights</h3>
+                <ul>
+                    <li><strong>Right to Know:</strong> Request information about the categories and specific pieces of personal information we collect, use, disclose, and sell</li>
+                    <li><strong>Right to Delete:</strong> Request deletion of your personal information, subject to certain exceptions</li>
+                    <li><strong>Right to Correct:</strong> Request correction of inaccurate personal information</li>
+                    <li><strong>Right to Opt-Out:</strong> Opt out of the sale or sharing of your personal information</li>
+                    <li><strong>Right to Limit:</strong> Limit the use and disclosure of sensitive personal information</li>
+                    <li><strong>Right to Non-Discrimination:</strong> Not receive discriminatory treatment for exercising your rights</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>11.2 Categories of Information Collected</h3>
+                <p>In the past 12 months, we have collected the following categories of personal information:</p>
+                <ul>
+                    <li>Identifiers (name, email, IP address, device identifiers)</li>
+                    <li>Commercial information (purchase history, transaction data)</li>
+                    <li>Internet activity (browsing history, search queries, interactions)</li>
+                    <li>Geolocation data</li>
+                    <li>Audio, electronic, or visual information (profile pictures, uploaded content)</li>
+                    <li>Inferences drawn from the above categories</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>11.3 Do Not Sell or Share My Personal Information</h3>
+                <p>We do not sell your personal information in the traditional sense. However, some of our advertising practices may constitute "sharing" under California law. You can opt out of this sharing by:</p>
+                <ul>
+                    <li>Clicking the "Do Not Sell or Share My Personal Information" link on our website</li>
+                    <li>Enabling Global Privacy Control (GPC) in your browser</li>
+                    <li>Contacting us directly with your request</li>
+                </ul>
+            </div>
+
+            <div class="info-box">
+                <strong>Shine the Light:</strong> California Civil Code Section 1798.83 permits California residents to request information about disclosure of personal information to third parties for direct marketing purposes. Contact us for more information.
+            </div>
+        </div>
+
+        <div class="section" id="european">
+            <h2>12. European Privacy Rights (GDPR)</h2>
+            <p>If you are located in the European Economic Area (EEA), United Kingdom, or Switzerland, you have additional rights under the General Data Protection Regulation (GDPR) and similar laws.</p>
+
+            <div class="subsection">
+                <h3>12.1 Your GDPR Rights</h3>
+                <ul>
+                    <li><strong>Right of Access:</strong> Obtain confirmation of processing and access to your data</li>
+                    <li><strong>Right to Rectification:</strong> Correct inaccurate or incomplete data</li>
+                    <li><strong>Right to Erasure:</strong> Request deletion ("right to be forgotten")</li>
+                    <li><strong>Right to Restriction:</strong> Restrict processing in certain circumstances</li>
+                    <li><strong>Right to Data Portability:</strong> Receive data in a portable format</li>
+                    <li><strong>Right to Object:</strong> Object to processing based on legitimate interests or direct marketing</li>
+                    <li><strong>Rights Related to Automated Decision-Making:</strong> Not be subject to decisions based solely on automated processing</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>12.2 Data Controller</h3>
+                <p>For the purposes of GDPR, OurStars is the data controller responsible for your personal information. Our contact details are provided in the "Contact Us" section below.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>12.3 Supervisory Authority</h3>
+                <p>You have the right to lodge a complaint with a supervisory authority in your country of residence, place of work, or where an alleged infringement occurred. A list of EU supervisory authorities is available at: <a href="https://edpb.europa.eu/about-edpb/board/members_en" target="_blank">https://edpb.europa.eu/about-edpb/board/members_en</a></p>
+            </div>
+
+            <div class="subsection">
+                <h3>12.4 Data Protection Officer</h3>
+                <p>If you have questions about our data protection practices or wish to exercise your rights, you may contact our Data Protection Officer at: <strong>dpo@ourstars.com</strong></p>
+            </div>
+        </div>
+
+        <div class="section" id="do-not-track">
+            <h2>13. Do Not Track Signals</h2>
+            <p>Some browsers include a "Do Not Track" (DNT) feature that signals to websites that you do not want your online activity tracked. There is currently no universally accepted standard for how companies should respond to DNT signals.</p>
+            <p>At this time, we do not respond to DNT signals. However, we do honor Global Privacy Control (GPC) signals where required by law, such as in California.</p>
+            <p>You can manage your tracking preferences through:</p>
+            <ul>
+                <li>Our cookie consent tool</li>
+                <li>Your browser settings</li>
+                <li>Industry opt-out mechanisms</li>
+                <li>Your account privacy settings</li>
+            </ul>
+        </div>
+
+        <div class="section" id="changes">
+            <h2>14. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, or other factors. When we make changes:</p>
+            <ul>
+                <li>We will update the "Last Updated" date at the top of this policy</li>
+                <li>For material changes, we will provide prominent notice (such as email notification or in-app alert)</li>
+                <li>We may ask for your consent to material changes where required by law</li>
+                <li>The previous version will be archived and available upon request</li>
+            </ul>
+            <p>We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.</p>
+            
+            <div class="warning-box">
+                <strong>Continued Use:</strong> Your continued use of our Services after any changes to this Privacy Policy constitutes your acceptance of the updated terms. If you do not agree with the changes, please discontinue use of our Services and delete your account.
+            </div>
+        </div>
+
+        <div class="section" id="contact">
+            <h2>15. Contact Us</h2>
+            <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+            
+            <div class="contact-info">
+                <p><strong>OurStars</strong></p>
+                <p><strong>Email:</strong> <a href="mailto:privacy@ourstars.com">privacy@ourstars.com</a></p>
+                <p><strong>Data Protection Officer:</strong> <a href="mailto:dpo@ourstars.com">dpo@ourstars.com</a></p>
+                <p><strong>Mailing Address:</strong><br>
+                OurStars Privacy Team<br>
+                [Address Line 1]<br>
+                [City, State/Province, Postal Code]<br>
+                [Country]</p>
+                <p><strong>Privacy Request Portal:</strong> <a href="#">Submit a Privacy Request</a></p>
+            </div>
+
+            <div class="success-box" style="margin-top: 25px;">
+                <strong>Response Time:</strong> We aim to respond to all privacy-related inquiries within 30 days. For complex requests, we may need additional time and will keep you informed of our progress.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>16. Additional Disclosures</h2>
+            
+            <div class="subsection">
+                <h3>16.1 Automated Decision-Making</h3>
+                <p>We may use automated systems to:</p>
+                <ul>
+                    <li>Detect and prevent fraud, cheating, and abuse</li>
+                    <li>Moderate content and enforce community guidelines</li>
+                    <li>Personalize your experience and recommendations</li>
+                    <li>Match players in multiplayer games</li>
+                </ul>
+                <p>You have the right to request human review of automated decisions that significantly affect you.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.2 Biometric Information</h3>
+                <p>We do not collect biometric information (such as fingerprints, facial recognition data, or voiceprints) unless explicitly disclosed and with your consent.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.3 Sensitive Personal Information</h3>
+                <p>We do not intentionally collect sensitive personal information such as:</p>
+                <ul>
+                    <li>Racial or ethnic origin</li>
+                    <li>Political opinions</li>
+                    <li>Religious or philosophical beliefs</li>
+                    <li>Trade union membership</li>
+                    <li>Genetic or biometric data</li>
+                    <li>Health information</li>
+                    <li>Sexual orientation</li>
+                </ul>
+                <p>If you voluntarily provide such information (e.g., in user-generated content), you consent to its processing in accordance with this policy.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.4 Financial Incentives</h3>
+                <p>We may offer loyalty programs, referral bonuses, or other incentives that involve the collection of personal information. Participation is voluntary, and you can opt out at any time. The value of any incentive is reasonably related to the value of your data to us.</p>
+            </div>
+        </div>
+
+        <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #ecf0f1; text-align: center; color: #7f8c8d; font-size: 0.9rem;">
+            <p>&copy; 2025 OurStars. All Rights Reserved.</p>
+            <p>This Privacy Policy is effective as of December 25, 2024.</p>
+        </div>
     </div>
-
 </body>
 </html>
