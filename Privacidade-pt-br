@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - OurStars</title>
+</head>
+  
+<body>
+    <div class="container">
+        <h1>Política de Privacidade</h1>
+        <p class="last-updated">Última Atualização: 25 de dezembro de 2025 | Data de Vigência: 25 de dezembro de 2025</p>
+        
+        <div class="intro-box">
+            <p><strong>Bem-vindo ao OurStars.</strong> Sua privacidade é criticamente importante para nós. Esta Política de Privacidade explica como o OurStars ("Empresa", "nós", "nos" ou "nosso") coleta, usa, divulga e protege suas informações quando você visita nosso site, joga nossos jogos ou usa qualquer um de nossos produtos e serviços (coletivamente, os "Serviços").</p>
+            <p>Ao acessar ou usar nossos Serviços, você reconhece que leu, compreendeu e concorda em estar vinculado a esta Política de Privacidade. Se você não concorda com os termos desta Política de Privacidade, por favor, não acesse ou use nossos Serviços.</p>
+        </div>
+
+        <div class="toc">
+            <h3>Sumário</h3>
+            <ol>
+                <li><a href="#information-we-collect">Informações que Coletamos</a></li>
+                <li><a href="#how-we-use">Como Usamos Suas Informações</a></li>
+                <li><a href="#information-sharing">Compartilhamento e Divulgação de Informações</a></li>
+                <li><a href="#data-retention">Retenção de Dados</a></li>
+                <li><a href="#data-security">Segurança de Dados</a></li>
+                <li><a href="#cookies">Cookies e Tecnologias de Rastreamento</a></li>
+                <li><a href="#third-party">Serviços de Terceiros</a></li>
+                <li><a href="#childrens-privacy">Privacidade de Crianças</a></li>
+                <li><a href="#your-rights">Seus Direitos de Privacidade</a></li>
+                <li><a href="#international">Transferências Internacionais de Dados</a></li>
+                <li><a href="#california">Direitos de Privacidade da Califórnia (CCPA)</a></li>
+                <li><a href="#european">Direitos de Privacidade Europeus (GDPR)</a></li>
+                <li><a href="#do-not-track">Sinais de "Não Rastrear" (Do Not Track)</a></li>
+                <li><a href="#changes">Alterações nesta Política</a></li>
+                <li><a href="#contact">Contate-nos</a></li>
+            </ol>
+        </div>
+
+        <div class="section" id="information-we-collect">
+            <h2>1. Informações que Coletamos</h2>
+            <p>Coletamos informações de várias maneiras quando você acessa ou usa nossos Serviços. Isso inclui informações que você fornece diretamente, informações coletadas automaticamente e informações de fontes de terceiros.</p>
+
+            <div class="subsection">
+                <h3>1.1 Informações que Você Fornece Diretamente</h3>
+                <p>Coletamos informações pessoais que você fornece voluntariamente ao usar nossos Serviços, incluindo, mas não se limitando a:</p>
+                
+                <h4>Informações de Registro de Conta</h4>
+                <ul>
+                    <li>Endereço de e-mail (necessário para criação de conta e comunicação)</li>
+                    <li>Nome de usuário (visível publicamente para outros usuários)</li>
+                    <li>Senha (armazenada em formato criptografado)</li>
+                    <li>Foto de perfil ou avatar</li>
+                    <li>Data de nascimento ou verificação de idade</li>
+                    <li>País ou região de residência</li>
+                    <li>Configurações de idioma preferido</li>
+                    <li>Qualquer informação de perfil opcional adicional que você decida fornecer</li>
+                </ul>
+
+                <div class="warning-box">
+                    <strong>Aviso Importante:</strong> Recomendamos fortemente que você não inclua informações pessoais sensíveis (como nome real, endereço, número de telefone ou informações financeiras) em seu nome de usuário, biografia de perfil ou qualquer conteúdo visível publicamente. Você é o único responsável por qualquer informação que decidir tornar pública.
+                </div>
+
+                <h4>Conteúdo Gerado pelo Usuário</h4>
+                <ul>
+                    <li>Mensagens no jogo, registros de chat e comunicações com outros usuários</li>
+                    <li>Imagens, capturas de tela e mídia carregada ou capturada dentro de nossos Serviços</li>
+                    <li>Comentários, postagens e contribuições em fóruns</li>
+                    <li>Conteúdo personalizado, criações e modificações</li>
+                    <li>Itens virtuais, inventário e ativos no jogo</li>
+                    <li>Preferências de jogo, configurações e configurações</li>
+                    <li>Listas de amigos e conexões sociais dentro de nossa plataforma</li>
+                </ul>
+
+                <h4>Informações de Pagamento e Transação</h4>
+                <p>Quando você realiza compras ou transações através de nossos Serviços, podemos coletar:</p>
+                <ul>
+                    <li>Nome e endereço de faturamento</li>
+                    <li>Detalhes do método de pagamento (processados de forma segura por processadores de pagamento terceirizados)</li>
+                    <li>Histórico de transações, incluindo datas, valores e itens comprados</li>
+                    <li>Preferências de moeda</li>
+                    <li>Informações de identificação fiscal (onde exigido por lei)</li>
+                    <li>Histórico de reembolsos e disputas</li>
+                </ul>
+
+                <div class="info-box">
+                    <strong>Segurança de Pagamento:</strong> Nós não armazenamos números de cartão de crédito completos, códigos CVV ou credenciais de pagamento completas em nossos servidores. Todo o processamento de pagamento é realizado por processadores de pagamento terceirizados em conformidade com o padrão PCI-DSS (como PayPal, Stripe ou serviços similares), cada um regido por suas próprias políticas de privacidade.
+                </div>
+
+                <h4>Comunicações e Suporte</h4>
+                <ul>
+                    <li>Consultas e correspondência de suporte ao cliente</li>
+                    <li>Relatórios de erros (bugs) e envios de feedback</li>
+                    <li>Respostas a pesquisas e questionários</li>
+                    <li>Inscrições em concursos, sorteios ou promoções</li>
+                    <li>Preferências de newsletter e comunicação de marketing</li>
+                    <li>Qualquer outra informação que você decida fornecer em comunicações conosco</li>
+                </ul>
+
+                <h4>Recursos de Recomendação e Convite</h4>
+                <p>Se você usar nossos recursos de "Convidar um Amigo" ou recomendação, podemos coletar:</p>
+                <ul>
+                    <li>Seu nome e endereço de e-mail</li>
+                    <li>O nome e endereço de e-mail do seu amigo</li>
+                    <li>Mensagens de convite personalizadas que você criar</li>
+                </ul>
+                <p>Essas informações são usadas exclusivamente para enviar o convite e rastrear recompensas de recomendação. Não armazenamos permanentemente as informações do seu amigo, a menos que ele crie uma conta.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>1.2 Informações Coletadas Automaticamente</h3>
+                <p>Quando você acessa ou usa nossos Serviços, coletamos automaticamente certas informações técnicas e de uso, incluindo:</p>
+
+                <h4>Informações Técnicas e do Dispositivo</h4>
+                <ul>
+                    <li>Endereço IP (Internet Protocol)</li>
+                    <li>Identificadores do dispositivo (incluindo ID único do dispositivo, ID de hardware, IMEI, endereço MAC)</li>
+                    <li>Tipo, modelo e fabricante do dispositivo</li>
+                    <li>Tipo e versão do sistema operacional</li>
+                    <li>Tipo de navegador, versão e configurações de idioma</li>
+                    <li>Resolução da tela e configurações de exibição</li>
+                    <li>Fuso horário e configurações regionais</li>
+                    <li>Informações da rede móvel e operadora</li>
+                    <li>Provedor de Serviços de Internet (ISP)</li>
+                    <li>Especificações de hardware (CPU, GPU, RAM)</li>
+                </ul>
+
+                <h4>Dados de Uso e Analíticos</h4>
+                <ul>
+                    <li>Data e hora do acesso</li>
+                    <li>Duração e frequência da sessão</li>
+                    <li>Páginas visualizadas e caminhos de navegação</li>
+                    <li>Recursos utilizados e interações realizadas</li>
+                    <li>Consultas de pesquisa e termos usados em nossos Serviços</li>
+                    <li>URLs de referência e páginas de saída</li>
+                    <li>Padrões de clique e comportamento de rolagem</li>
+                    <li>Logs de erro, relatórios de falhas e dados de desempenho</li>
+                </ul>
+
+                <h4>Dados Específicos do Jogo</h4>
+                <ul>
+                    <li>Estatísticas de jogabilidade e métricas de desempenho</li>
+                    <li>Progresso de conquistas e dados de conclusão</li>
+                    <li>Ações, decisões e comportamentos no jogo</li>
+                    <li>Interações multijogador e histórico de partidas</li>
+                    <li>Classificações em tabelas de líderes e estatísticas competitivas</li>
+                    <li>Conclusão de tutoriais e progresso de aprendizado</li>
+                    <li>Transações e saldos da economia virtual</li>
+                </ul>
+
+                <div class="warning-box">
+                    <strong>Visibilidade Pública:</strong> Algumas estatísticas de jogabilidade e conquistas podem estar visíveis para outros jogadores através de tabelas de líderes, perfis ou recursos sociais. Você pode gerenciar as configurações de visibilidade nas preferências de sua conta, onde disponível.
+                </div>
+            </div>
+
+            <div class="subsection">
+                <h3>1.3 Informações de Localização</h3>
+                <p>Sujeito às permissões e configurações do seu dispositivo, podemos coletar dados de localização, incluindo:</p>
+                <ul>
+                    <li>Localização GPS precisa (com seu consentimento explícito)</li>
+                    <li>Localização aproximada baseada no endereço IP</li>
+                    <li>Informações de pontos de acesso Wi-Fi</li>
+                    <li>Dados de triangulação de torres de celular</li>
+                    <li>Endereço de faturamento e código postal</li>
+                    <li>País e região derivados das configurações do dispositivo</li>
+                </ul>
+                <p>Dados de localização nos ajudam a fornecer conteúdo localizado, cumprir regulamentações regionais, prevenir fraudes e melhorar nossos Serviços. Você pode desativar os serviços de localização através das configurações do seu dispositivo a qualquer momento.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>1.4 Informações de Terceiros</h3>
+                <p>Podemos receber informações sobre você de várias fontes de terceiros, incluindo:</p>
+                
+                <h4>Plataformas de Redes Sociais</h4>
+                <p>Se você conectar sua conta a serviços de mídia social (como Facebook, Google, Discord, Twitter, Apple, Steam ou outros), podemos receber:</p>
+                <ul>
+                    <li>Informações básicas do perfil (nome, foto do perfil, e-mail)</li>
+                    <li>Listas de amigos e conexões sociais (com sua permissão)</li>
+                    <li>Dados de perfil público conforme permitido por suas configurações de privacidade</li>
+                    <li>Tokens de autenticação para fins de login</li>
+                </ul>
+
+                <h4>Parceiros de Negócios e Prestadores de Serviços</h4>
+                <ul>
+                    <li>Lojas de aplicativos e plataformas de distribuição (Apple App Store, Google Play, Steam)</li>
+                    <li>Processadores de pagamento e instituições financeiras</li>
+                    <li>Parceiros de análise e publicidade</li>
+                    <li>Serviços antifraude e de segurança</li>
+                    <li>Plataformas de suporte ao cliente</li>
+                    <li>Parceiros de marketing e promocionais</li>
+                </ul>
+
+                <h4>Fontes Disponíveis Publicamente</h4>
+                <ul>
+                    <li>Bancos de dados e diretórios públicos</li>
+                    <li>Registros governamentais (onde legalmente permitido)</li>
+                    <li>Perfis de redes sociais definidos como públicos</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="how-we-use">
+            <h2>2. Como Usamos Suas Informações</h2>
+            <p>Usamos as informações que coletamos para diversos fins, visando fornecer, manter, melhorar e proteger nossos Serviços, bem como para nos comunicarmos com você. Especificamente, usamos suas informações para:</p>
+
+            <div class="subsection">
+                <h3>2.1 Fornecer e Operar Nossos Serviços</h3>
+                <ul>
+                    <li>Criar, gerenciar e autenticar sua conta</li>
+                    <li>Processar transações e cumprir compras</li>
+                    <li>Entregar conteúdo do jogo, itens virtuais e recursos</li>
+                    <li>Habilitar funcionalidade multijogador e recursos sociais</li>
+                    <li>Fornecer suporte ao cliente e responder a consultas</li>
+                    <li>Enviar comunicações relacionadas ao serviço (verificação de conta, alertas de segurança, atualizações)</li>
+                    <li>Manter tabelas de líderes, conquistas e recursos competitivos</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.2 Melhorar e Personalizar Nossos Serviços</h3>
+                <ul>
+                    <li>Analisar padrões de uso para melhorar o design do jogo e a experiência do usuário</li>
+                    <li>Personalizar conteúdo, recomendações e experiências no jogo</li>
+                    <li>Realizar pesquisa e desenvolvimento para novos recursos</li>
+                    <li>Testar e otimizar o desempenho, funcionalidade e design</li>
+                    <li>Entender as preferências e o comportamento do jogador</li>
+                    <li>Desenvolver e melhorar algoritmos de matchmaking</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.3 Segurança, Proteção e Conformidade Legal</h3>
+                <ul>
+                    <li>Detectar, prevenir e lidar com fraudes, trapaças e atividades não autorizadas</li>
+                    <li>Aplicar nossos Termos de Serviço e diretrizes da comunidade</li>
+                    <li>Proteger os direitos, a propriedade e a segurança de nossos usuários e do público</li>
+                    <li>Cumprir obrigações legais e responder a solicitações lícitas</li>
+                    <li>Investigar e resolver disputas e incidentes de segurança</li>
+                    <li>Implementar e manter medidas de segurança</li>
+                    <li>Verificar idade e identidade quando necessário</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>2.4 Marketing e Comunicações</h3>
+                <ul>
+                    <li>Enviar materiais promocionais, newsletters e ofertas especiais (com seu consentimento)</li>
+                    <li>Notificá-lo sobre novos recursos, jogos e atualizações</li>
+                    <li>Realizar pesquisas e coletar feedback</li>
+                    <li>Administrar concursos, sorteios e promoções</li>
+                    <li>Entregar publicidade direcionada com base em seus interesses (onde permitido)</li>
+                </ul>
+                <p>Você pode optar por não receber comunicações de marketing a qualquer momento, seguindo as instruções de cancelamento de inscrição em nossos e-mails ou ajustando as configurações de sua conta.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>2.5 Base Legal para Processamento (GDPR)</h3>
+                <p>Para usuários no Espaço Econômico Europeu (EEE), Reino Unido e jurisdições similares, processamos seus dados pessoais com base nos seguintes fundamentos jurídicos:</p>
+                <table>
+                    <tr>
+                        <th>Base Legal</th>
+                        <th>Exemplos de Processamento</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Execução de Contrato</strong></td>
+                        <td>Criação de conta, entrega de serviço, processamento de transação</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Interesses Legítimos</strong></td>
+                        <td>Prevenção de fraude, segurança, análise, melhoria do serviço</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Consentimento</strong></td>
+                        <td>Comunicações de marketing, coleta de dados opcionais, cookies</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Obrigação Legal</strong></td>
+                        <td>Conformidade fiscal, solicitações de aplicação da lei, requisitos regulatórios</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="information-sharing">
+            <h2>3. Compartilhamento e Divulgação de Informações</h2>
+            <p>Não vendemos suas informações pessoais a terceiros. No entanto, podemos compartilhar suas informações nas seguintes circunstâncias:</p>
+
+            <div class="subsection">
+                <h3>3.1 Prestadores de Serviços e Parceiros de Negócios</h3>
+                <p>Compartilhamos informações com prestadores de serviços terceirizados de confiança que nos auxiliam na operação de nossos Serviços, incluindo:</p>
+                <ul>
+                    <li>Provedores de hospedagem em nuvem e infraestrutura</li>
+                    <li>Processadores de pagamento e serviços financeiros</li>
+                    <li>Serviços de análise e análise de dados</li>
+                    <li>Plataformas de suporte ao cliente e comunicação</li>
+                    <li>Serviços antifraude e de segurança</li>
+                    <li>Parceiros de marketing e publicidade</li>
+                    <li>Serviços de entrega de e-mail</li>
+                </ul>
+                <p>Esses prestadores são contratualmente obrigados a proteger suas informações e só podem usá-las para os fins específicos que autorizamos.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.2 Requisitos Legais e Proteção</h3>
+                <p>Podemos divulgar suas informações quando exigido por lei ou quando acreditarmos que a divulgação é necessária para:</p>
+                <ul>
+                    <li>Cumprir processos legais, ordens judiciais ou solicitações governamentais</li>
+                    <li>Aplicar nossos Termos de Serviço e outros acordos</li>
+                    <li>Proteger nossos direitos, propriedade ou segurança</li>
+                    <li>Proteger os direitos, propriedade ou segurança de nossos usuários ou do público</li>
+                    <li>Detectar, prevenir ou lidar com fraudes, segurança ou problemas técnicos</li>
+                    <li>Responder a situações de emergência envolvendo danos potenciais</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>3.3 Transferências de Negócios</h3>
+                <p>No caso de uma fusão, aquisição, reorganização, falência ou venda de todo ou parte de nossos ativos, suas informações podem ser transferidas como parte dessa transação. Notificaremos você sobre qualquer mudança desse tipo e quaisquer escolhas que você possa ter em relação às suas informações.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.4 Com Seu Consentimento</h3>
+                <p>Podemos compartilhar suas informações com terceiros quando você nos der consentimento explícito para fazê-lo, como quando você autoriza um aplicativo de terceiros a acessar sua conta.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>3.5 Dados Agregados e Desidentificados</h3>
+                <p>Podemos compartilhar informações agregadas, anonimizadas ou desidentificadas que não podem ser razoavelmente usadas para identificá-lo para fins de pesquisa, análise, marketing ou outros fins.</p>
+            </div>
+        </div>
+
+        <div class="section" id="data-retention">
+            <h2>4. Retenção de Dados</h2>
+            <p>Retemos suas informações pessoais pelo tempo necessário para cumprir as finalidades descritas nesta Política de Privacidade, a menos que um período de retenção mais longo seja exigido ou permitido por lei.</p>
+            
+            <div class="subsection">
+                <h3>4.1 Períodos de Retenção</h3>
+                <table>
+                    <tr>
+                        <th>Tipo de Dado</th>
+                        <th>Período de Retenção</th>
+                    </tr>
+                    <tr>
+                        <td>Informações da Conta</td>
+                        <td>Duração da existência da conta + 3 anos após a exclusão</td>
+                    </tr>
+                    <tr>
+                        <td>Registros de Transação</td>
+                        <td>7 anos (para conformidade fiscal e legal)</td>
+                    </tr>
+                    <tr>
+                        <td>Registros de Suporte ao Cliente</td>
+                        <td>5 anos desde a última interação</td>
+                    </tr>
+                    <tr>
+                        <td>Dados Analíticos</td>
+                        <td>26 meses (dados agregados podem ser mantidos por mais tempo)</td>
+                    </tr>
+                    <tr>
+                        <td>Preferências de Marketing</td>
+                        <td>Até você retirar o consentimento ou excluir sua conta</td>
+                    </tr>
+                    <tr>
+                        <td>Logs de Segurança</td>
+                        <td>1-3 anos dependendo do tipo</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>4.2 Exclusão de Conta</h3>
+                <p>Quando você solicita a exclusão da conta, nós iremos:</p>
+                <ul>
+                    <li>Excluir ou anonimizar suas informações pessoais em até 30 dias</li>
+                    <li>Reter certas informações conforme exigido por lei ou para fins comerciais legítimos</li>
+                    <li>Remover seu perfil público e conteúdo gerado pelo usuário (a menos que exigido por processos legais)</li>
+                    <li>Manter dados analíticos anonimizados que não podem identificá-lo</li>
+                </ul>
+                <div class="warning-box">
+                    <strong>Nota:</strong> Algumas informações podem persistir em sistemas de backup por um tempo limitado. Conteúdos que você compartilhou com outros ou que foram copiados por outros usuários podem permanecer visíveis.
+                </div>
+            </div>
+        </div>
+
+        <div class="section" id="data-security">
+            <h2>5. Segurança de Dados</h2>
+            <p>Implementamos medidas de segurança técnicas, administrativas e físicas abrangentes para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição.</p>
+
+            <div class="subsection">
+                <h3>5.1 Medidas de Segurança</h3>
+                <ul>
+                    <li><strong>Criptografia:</strong> Todos os dados transmitidos entre o seu dispositivo e nossos servidores são criptografados usando protocolos TLS/SSL. Dados sensíveis em repouso são criptografados usando criptografia AES-256 padrão da indústria.</li>
+                    <li><strong>Controles de Acesso:</strong> Controles de acesso rigorosos limitam o acesso de funcionários às informações pessoais de acordo com a necessidade de conhecimento. Todo acesso é registrado e monitorado.</li>
+                    <li><strong>Autenticação:</strong> Apoiamos e incentivamos o uso de senhas fortes e autenticação de dois fatores (2FA) para a segurança da conta.</li>
+                    <li><strong>Segurança de Infraestrutura:</strong> Nossos servidores são hospedados em centros de dados seguros em conformidade com SOC 2, com monitoramento 24/7, firewalls e sistemas de detecção de intrusão.</li>
+                    <li><strong>Auditorias Regulares:</strong> Realizamos avaliações de segurança regulares, testes de invasão e varreduras de vulnerabilidade.</li>
+                    <li><strong>Treinamento de Funcionários:</strong> Todos os funcionários recebem treinamento regular sobre proteção de dados e melhores práticas de segurança.</li>
+                    <li><strong>Resposta a Incidentes:</strong> Mantemos procedimentos abrangentes de resposta a incidentes para lidar com possíveis violações de segurança.</li>
+                </ul>
+            </div>
+
+            <div class="important-box">
+                <strong>Isenção de Responsabilidade de Segurança:</strong> Embora nos esforcemos para proteger suas informações pessoais, nenhum método de transmissão pela Internet ou armazenamento eletrônico é 100% seguro. Não podemos garantir segurança absoluta. Você é responsável por manter a confidencialidade das credenciais de sua conta e por quaisquer atividades que ocorram em sua conta.
+            </div>
+
+            <div class="subsection">
+                <h3>5.2 Suas Responsabilidades de Segurança</h3>
+                <ul>
+                    <li>Use uma senha forte e única para sua conta</li>
+                    <li>Ative a autenticação de dois fatores quando disponível</li>
+                    <li>Nunca compartilhe suas credenciais de login com terceiros</li>
+                    <li>Encerre a sessão da sua conta ao usar dispositivos compartilhados</li>
+                    <li>Mantenha seu dispositivo e software atualizados</li>
+                    <li>Relate qualquer atividade suspeita imediatamente</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>5.3 Notificação de Violação de Dados</h3>
+                <p>Em caso de uma violação de dados que afete suas informações pessoais, nós iremos:</p>
+                <ul>
+                    <li>Notificar os usuários afetados em até 72 horas após a descoberta (ou conforme exigido pela lei aplicável)</li>
+                    <li>Fornecer informações sobre a natureza da violação e os dados afetados</li>
+                    <li>Descrever as medidas tomadas para lidar com a violação</li>
+                    <li>Oferecer orientação sobre as medidas que você pode tomar para se proteger</li>
+                    <li>Relatar às autoridades reguladoras relevantes conforme exigido por lei</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="cookies">
+            <h2>6. Cookies e Tecnologias de Rastreamento</h2>
+            <p>Usamos cookies e tecnologias de rastreamento semelhantes para coletar informações, melhorar sua experiência e fornecer conteúdo e publicidade personalizados.</p>
+
+            <div class="subsection">
+                <h3>6.1 Tipos de Cookies que Usamos</h3>
+                <table>
+                    <tr>
+                        <th>Tipo de Cookie</th>
+                        <th>Finalidade</th>
+                        <th>Duração</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Cookies Essenciais</strong></td>
+                        <td>Necessários para funcionalidade básica, autenticação e segurança</td>
+                        <td>Sessão / Persistente</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cookies de Desempenho</strong></td>
+                        <td>Coletam dados analíticos para melhorar nossos Serviços</td>
+                        <td>Até 2 anos</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cookies Funcionais</strong></td>
+                        <td>Lembram suas preferências e configurações</td>
+                        <td>Até 1 ano</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cookies de Publicidade</strong></td>
+                        <td>Entregam anúncios relevantes e medem a eficácia</td>
+                        <td>Até 2 anos</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Cookies de Redes Sociais</strong></td>
+                        <td>Habilitam recursos de compartilhamento e integração social</td>
+                        <td>Varia por plataforma</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="subsection">
+                <h3>6.2 Outras Tecnologias de Rastreamento</h3>
+                <ul>
+                    <li><strong>Web Beacons:</strong> Pequenas imagens gráficas usadas para rastrear o comportamento do usuário e o engajamento de e-mail</li>
+                    <li><strong>Pixel Tags:</strong> Snippets de código que nos ajudam a entender como você interage com nossos Serviços</li>
+                    <li><strong>Local Storage:</strong> Armazenamento do navegador usado para salvar preferências e melhorar o desempenho</li>
+                    <li><strong>Device Fingerprinting:</strong> Coleta de atributos do dispositivo para segurança e prevenção de fraude</li>
+                    <li><strong>SDKs:</strong> Kits de desenvolvimento de software em nossos aplicativos móveis que coletam dados de uso</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>6.3 Gerenciando Cookies</h3>
+                <p>Você pode controlar os cookies através de vários métodos:</p>
+                <ul>
+                    <li><strong>Configurações do Navegador:</strong> A maioria dos navegadores permite bloquear ou excluir cookies através das configurações</li>
+                    <li><strong>Ferramenta de Consentimento de Cookies:</strong> Use nosso centro de preferência de cookies para gerenciar cookies não essenciais</li>
+                    <li><strong>Links de Opt-Out:</strong> Visite páginas de opt-out da indústria, como:
+                        <ul>
+                            <li>Network Advertising Initiative: <a href="https://optout.networkadvertising.org" target="_blank">optout.networkadvertising.org</a></li>
+                            <li>Digital Advertising Alliance: <a href="https://optout.aboutads.info" target="_blank">optout.aboutads.info</a></li>
+                            <li>European Interactive Digital Advertising Alliance: <a href="https://youronlinechoices.eu" target="_blank">youronlinechoices.eu</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="warning-box">
+                    <strong>Importante:</strong> A desativação de certos cookies pode afetar a funcionalidade de nossos Serviços, incluindo sua capacidade de fazer login, salvar preferências ou acessar certos recursos.
+                </div>
+            </div>
+        </div>
+
+        <div class="section" id="third-party">
+            <h2>7. Serviços de Terceiros</h2>
+            <p>Nossos Serviços podem conter links para sites, aplicativos ou serviços de terceiros que não são operados por nós. Não somos responsáveis pelas práticas de privacidade desses terceiros.</p>
+
+            <div class="subsection">
+                <h3>7.1 Integrações de Terceiros</h3>
+                <p>Integramos com vários serviços de terceiros, incluindo:</p>
+                <ul>
+                    <li><strong>Plataformas de Redes Sociais:</strong> Facebook, Google, Discord, Twitter, Apple, Steam</li>
+                    <li><strong>Processadores de Pagamento:</strong> PayPal, Stripe, Apple Pay, Google Pay</li>
+                    <li><strong>Provedores de Análise:</strong> Google Analytics, Firebase, Mixpanel</li>
+                    <li><strong>Redes de Publicidade:</strong> Google Ads, Facebook Ads, Unity Ads</li>
+                    <li><strong>Serviços em Nuvem:</strong> Amazon Web Services, Google Cloud Platform</li>
+                    <li><strong>Suporte ao Cliente:</strong> Zendesk, Intercom</li>
+                </ul>
+                <p>Cada serviço de terceiro tem sua própria política de privacidade que rege a coleta e o uso de suas informações. Recomendamos que você analise as políticas deles.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>7.2 Recursos de Redes Sociais</h3>
+                <p>Nossos Serviços podem incluir recursos de mídia social, como botões "Curtir", botões de compartilhamento ou widgets interativos. Esses recursos podem:</p>
+                <ul>
+                    <li>Coletar seu endereço IP e informações da página</li>
+                    <li>Configurar cookies para habilitar a funcionalidade</li>
+                    <li>Ser hospedados pelo terceiro ou diretamente em nossos Serviços</li>
+                </ul>
+                <p>Suas interações com esses recursos são regidas pelas políticas de privacidade das empresas que os fornecem.</p>
+            </div>
+        </div>
+
+        <div class="section" id="childrens-privacy">
+            <h2>8. Privacidade de Crianças</h2>
+            <p>Proteger a privacidade das crianças é especialmente importante para nós. Nossos Serviços não se destinam a crianças menores de 13 anos (ou a idade aplicável de consentimento digital em sua jurisdição).</p>
+
+            <div class="important-box">
+                <strong>Restrição de Idade:</strong> Não coletamos intencionalmente informações pessoais de crianças menores de 13 anos (ou 16 no EEE). Se você estiver abaixo da idade mínima, por favor, não use nossos Serviços nem forneça qualquer informação pessoal.
+            </div>
+
+            <div class="subsection">
+                <h3>8.1 Direitos dos Pais</h3>
+                <p>Se você é pai, mãe ou responsável e acredita que seu filho nos forneceu informações pessoais sem o seu consentimento, entre em contato conosco imediatamente. Tomaremos as medidas para:</p>
+                <ul>
+                    <li>Verificar a solicitação e seu relacionamento com a criança</li>
+                    <li>Excluir as informações pessoais da criança de nossos sistemas</li>
+                    <li>Encerrar qualquer conta criada pela criança</li>
+                    <li>Impedir a coleta futura de informações da criança</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>8.2 Conformidade com COPPA (Estados Unidos)</h3>
+                <p>Cumprimos a Lei de Proteção à Privacidade Online das Crianças (COPPA). Se descobrirmos que coletamos informações de uma criança menor de 13 anos sem consentimento parental verificável, excluiremos essas informações o mais rápido possível.</p>
+            </div>
+        </div>
+
+        <div class="section" id="your-rights">
+            <h2>9. Seus Direitos de Privacidade</h2>
+            <p>Dependendo da sua localização, você pode ter certos direitos em relação às suas informações pessoais. Estamos comprometidos em honrar esses direitos e fornecer controle sobre seus dados.</p>
+
+            <div class="subsection">
+                <h3>9.1 Direitos Gerais</h3>
+                <p>Sujeito à lei aplicável, você pode ter o direito de:</p>
+                <ul>
+                    <li><strong>Acesso:</strong> Solicitar uma cópia das informações pessoais que mantemos sobre você</li>
+                    <li><strong>Correção:</strong> Solicitar a correção de informações imprecisas ou incompletas</li>
+                    <li><strong>Exclusão:</strong> Solicitar a exclusão de suas informações pessoais</li>
+                    <li><strong>Portabilidade:</strong> Receber seus dados em um formato estruturado e legível por máquina</li>
+                    <li><strong>Restrição:</strong> Solicitar a restrição do processamento em certas circunstâncias</li>
+                    <li><strong>Objeção:</strong> Opor-se ao processamento baseado em interesses legítimos</li>
+                    <li><strong>Retirar Consentimento:</strong> Retirar o consentimento onde o processamento é baseado no consentimento</li>
+                    <li><strong>Não Discriminação:</strong> Não ser discriminado por exercer seus direitos</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>9.2 Como Exercer Seus Direitos</h3>
+                <p>Para exercer qualquer um desses direitos, você pode:</p>
+                <ul>
+                    <li>Acessar as configurações de sua conta para atualizar ou excluir informações</li>
+                    <li>Contatar-nos usando as informações fornecidas na seção "Contate-nos"</li>
+                    <li>Enviar uma solicitação através do nosso portal de solicitação de privacidade</li>
+                </ul>
+                <p>Responderemos à sua solicitação em até 30 dias (ou conforme exigido pela lei aplicável). Podemos precisar verificar sua identidade antes de processar sua solicitação.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>9.3 Processo de Apelação</h3>
+                <p>Se negarmos sua solicitação, você tem o direito de apelar de nossa decisão. Para apelar, entre em contato conosco com o assunto "Apelação de Direitos de Privacidade" e inclua:</p>
+                <ul>
+                    <li>Os detalhes da sua solicitação original</li>
+                    <li>O motivo da sua apelação</li>
+                    <li>Qualquer informação adicional que sustente sua solicitação</li>
+                </ul>
+                <p>Analisaremos sua apelação e responderemos em até 45 dias.</p>
+            </div>
+        </div>
+
+        <div class="section" id="international">
+            <h2>10. Transferências Internacionais de Dados</h2>
+            <p>Operamos globalmente e podemos transferir suas informações pessoais para países diferentes do seu país de residência. Esses países podem ter leis de proteção de dados diferentes das da sua jurisdição.</p>
+
+            <div class="subsection">
+                <h3>10.1 Mecanismos de Transferência</h3>
+                <p>Quando transferimos informações pessoais internacionalmente, usamos salvaguardas apropriadas, incluindo:</p>
+                <ul>
+                    <li><strong>Cláusulas Contratuais Padrão:</strong> Termos contratuais aprovados pela UE para transferências de dados</li>
+                    <li><strong>Decisões de Adequação:</strong> Transferências para países considerados adequados pelas autoridades competentes</li>
+                    <li><strong>Regras Corporativas Vinculativas:</strong> Políticas internas para transferências intragrupo</li>
+                    <li><strong>Consentimento:</strong> Seu consentimento explícito para transferências específicas</li>
+                    <li><strong>Necessidade Contratual:</strong> Transferências necessárias para cumprir nosso contrato com você</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>10.2 Locais de Armazenamento de Dados</h3>
+                <p>Suas informações podem ser armazenadas e processadas nos:</p>
+                <ul>
+                    <li>Estados Unidos</li>
+                    <li>Estados-membros da União Europeia</li>
+                    <li>Outros países onde nossos prestadores de serviços operam</li>
+                </ul>
+                <p>Independentemente de onde seus dados sejam processados, aplicamos as mesmas proteções descritas nesta Política de Privacidade.</p>
+            </div>
+        </div>
+
+        <div class="section" id="california">
+            <h2>11. Direitos de Privacidade da Califórnia (CCPA/CPRA)</h2>
+            <p>Se você for residente da Califórnia, possui direitos específicos sob a Lei de Privacidade do Consumidor da Califórnia (CCPA) e a Lei de Direitos de Privacidade da Califórnia (CPRA).</p>
+
+            <div class="subsection">
+                <h3>11.1 Seus Direitos na Califórnia</h3>
+                <ul>
+                    <li><strong>Direito de Saber:</strong> Solicitar informações sobre as categorias e peças específicas de informações pessoais que coletamos, usamos, divulgamos e vendemos</li>
+                    <li><strong>Direito de Excluir:</strong> Solicitar a exclusão de suas informações pessoais, sujeito a certas exceções</li>
+                    <li><strong>Direito de Corrigir:</strong> Solicitar a correção de informações pessoais imprecisas</li>
+                    <li><strong>Direito de Exclusão (Opt-Out):</strong> Optar por não participar da venda ou compartilhamento de suas informações pessoais</li>
+                    <li><strong>Direito de Limitar:</strong> Limitar o uso e a divulgação de informações pessoais sensíveis</li>
+                    <li><strong>Direito de Não Discriminação:</strong> Não receber tratamento discriminatório por exercer seus direitos</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>11.2 Categorias de Informações Coletadas</h3>
+                <p>Nos últimos 12 meses, coletamos as seguintes categorias de informações pessoais:</p>
+                <ul>
+                    <li>Identificadores (nome, e-mail, endereço IP, identificadores de dispositivo)</li>
+                    <li>Informações comerciais (histórico de compras, dados de transação)</li>
+                    <li>Atividade na Internet (histórico de navegação, consultas de pesquisa, interações)</li>
+                    <li>Dados de geolocalização</li>
+                    <li>Informações de áudio, eletrônicas ou visuais (fotos de perfil, conteúdo carregado)</li>
+                    <li>Inferências extraídas das categorias acima</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>11.3 Não Venda ou Compartilhe Minhas Informações Pessoais</h3>
+                <p>Não vendemos suas informações pessoais no sentido tradicional. No entanto, algumas de nossas práticas publicitárias podem constituir "compartilhamento" sob a lei da Califórnia. Você pode optar por não participar desse compartilhamento:</p>
+                <ul>
+                    <li>Clicando no link "Não Venda ou Compartilhe Minhas Informações Pessoais" em nosso site</li>
+                    <li>Habilitando o Controle Global de Privacidade (GPC) em seu navegador</li>
+                    <li>Contatando-nos diretamente com sua solicitação</li>
+                </ul>
+            </div>
+
+            <div class="info-box">
+                <strong>Shine the Light:</strong> A Seção 1798.83 do Código Civil da Califórnia permite que residentes da Califórnia solicitem informações sobre a divulgação de informações pessoais a terceiros para fins de marketing direto. Entre em contato conosco para mais informações.
+            </div>
+        </div>
+
+        <div class="section" id="european">
+            <h2>12. Direitos de Privacidade Europeus (GDPR)</h2>
+            <p>Se você estiver localizado no Espaço Econômico Europeu (EEE), Reino Unido ou Suíça, possui direitos adicionais sob o Regulamento Geral de Proteção de Dados (GDPR) e leis semelhantes.</p>
+
+            <div class="subsection">
+                <h3>12.1 Seus Direitos sob o GDPR</h3>
+                <ul>
+                    <li><strong>Direito de Acesso:</strong> Obter confirmação do processamento e acesso aos seus dados</li>
+                    <li><strong>Direito de Retificação:</strong> Corrigir dados imprecisos ou incompletos</li>
+                    <li><strong>Direito de Apagamento:</strong> Solicitar exclusão ("direito de ser esquecido")</li>
+                    <li><strong>Direito de Restrição:</strong> Restringir o processamento em certas circunstâncias</li>
+                    <li><strong>Direito de Portabilidade de Dados:</strong> Receber dados em um formato portátil</li>
+                    <li><strong>Direito de Oposição:</strong> Opor-se ao processamento baseado em interesses legítimos ou marketing direto</li>
+                    <li><strong>Direitos Relacionados à Tomada de Decisão Automatizada:</strong> Não estar sujeito a decisões baseadas unicamente no processamento automatizado</li>
+                </ul>
+            </div>
+
+            <div class="subsection">
+                <h3>12.2 Controlador de Dados</h3>
+                <p>Para fins de GDPR, o OurStars é o controlador de dados responsável pelas suas informações pessoais. Nossos detalhes de contato são fornecidos na seção "Contate-nos" abaixo.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>12.3 Autoridade de Supervisão</h3>
+                <p>Você tem o direito de apresentar uma queixa a uma autoridade de supervisão em seu país de residência, local de trabalho ou onde ocorreu uma alegada infração. Uma lista das autoridades de supervisão da UE está disponível em: <a href="https://edpb.europa.eu/about-edpb/board/members_en" target="_blank">https://edpb.europa.eu/about-edpb/board/members_en</a></p>
+            </div>
+
+            <div class="subsection">
+                <h3>12.4 Encarregado de Proteção de Dados (DPO)</h3>
+                <p>Se você tiver dúvidas sobre nossas práticas de proteção de dados ou desejar exercer seus direitos, pode contatar nosso Encarregado de Proteção de Dados em: <strong>dpo@ourstars.com</strong></p>
+            </div>
+        </div>
+
+        <div class="section" id="do-not-track">
+            <h2>13. Sinais de "Não Rastrear" (Do Not Track)</h2>
+            <p>Alguns navegadores incluem um recurso "Não Rastrear" (DNT) que sinaliza aos sites que você não deseja que sua atividade online seja rastreada. Atualmente, não há um padrão universalmente aceito para como as empresas devem responder aos sinais DNT.</p>
+            <p>Neste momento, não respondemos aos sinais DNT. No entanto, honramos os sinais do Controle Global de Privacidade (GPC) onde exigido por lei, como na Califórnia.</p>
+            <p>Você pode gerenciar suas preferências de rastreamento através de:</p>
+            <ul>
+                <li>Nossa ferramenta de consentimento de cookies</li>
+                <li>Configurações do seu navegador</li>
+                <li>Mecanismos de opt-out da indústria</li>
+                <li>Configurações de privacidade da sua conta</li>
+            </ul>
+        </div>
+
+        <div class="section" id="changes">
+            <h2>14. Alterações nesta Política de Privacidade</h2>
+            <p>Podemos atualizar esta Política de Privacidade periodicamente para refletir mudanças em nossas práticas, tecnologias, requisitos legais ou outros fatores. Quando fizermos alterações:</p>
+            <ul>
+                <li>Atualizaremos a data de "Última Atualização" no topo desta política</li>
+                <li>Para mudanças materiais, forneceremos um aviso proeminente (como notificação por e-mail ou alerta no aplicativo)</li>
+                <li>Podemos solicitar seu consentimento para mudanças materiais onde exigido por lei</li>
+                <li>A versão anterior será arquivada e disponibilizada mediante solicitação</li>
+            </ul>
+            <p>Incentivamos você a revisar esta Política de Privacidade periodicamente para se manter informado sobre como protegemos suas informações.</p>
+            
+            <div class="warning-box">
+                <strong>Uso Continuado:</strong> Seu uso continuado de nossos Serviços após quaisquer alterações nesta Política de Privacidade constitui sua aceitação dos termos atualizados. Se você não concorda com as alterações, por favor, interrompa o uso de nossos Serviços e exclua sua conta.
+            </div>
+        </div>
+
+        <div class="section" id="contact">
+            <h2>15. Contate-nos</h2>
+            <p>Se você tiver alguma dúvida, preocupação ou solicitação em relação a esta Política de Privacidade ou nossas práticas de dados, entre em contato conosco:</p>
+            
+            <div class="contact-info">
+                <p><strong>OurStars</strong></p>
+                <p><strong>E-mail:</strong> <a href="mailto:privacy@ourstars.com">privacy@ourstars.com</a></p>
+                <p><strong>Encarregado de Proteção de Dados:</strong> <a href="mailto:dpo@ourstars.com">dpo@ourstars.com</a></p>
+                <p><strong>Endereço de Correspondência:</strong><br>
+                Equipe de Privacidade OurStars<br>
+                [Endereço Linha 1]<br>
+                [Cidade, Estado/Província, CEP]<br>
+                [País]</p>
+                <p><strong>Portal de Solicitação de Privacidade:</strong> <a href="#">Enviar uma Solicitação de Privacidade</a></p>
+            </div>
+
+            <div class="success-box">
+                <strong>Tempo de Resposta:</strong> Nosso objetivo é responder a todas as consultas relacionadas à privacidade em até 30 dias. Para solicitações complexas, podemos precisar de tempo adicional e manteremos você informado sobre nosso progresso.
+            </div>
+        </div>
+        
+
+        <div class="section">
+            <h2>16. Divulgações Adicionais</h2>
+            
+            <div class="subsection">
+                <h3>16.1 Tomada de Decisão Automatizada</h3>
+                <p>Podemos usar sistemas automatizados para:</p>
+                <ul>
+                    <li>Detectar e prevenir fraudes, trapaças e abusos</li>
+                    <li>Moderar conteúdo e aplicar diretrizes da comunidade</li>
+                    <li>Personalizar sua experiência e recomendações</li>
+                    <li>Combinar jogadores em jogos multijogador (matchmaking)</li>
+                </ul>
+                <p>Você tem o direito de solicitar revisão humana de decisões automatizadas que o afetem significativamente.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.2 Informações Biométricas</h3>
+                <p>Não coletamos informações biométricas (como impressões digitais, dados de reconhecimento facial ou impressões de voz), a menos que explicitamente divulgado e com o seu consentimento.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.3 Informações Pessoais Sensíveis</h3>
+                <p>Não coletamos intencionalmente informações pessoais sensíveis, como:</p>
+                <ul>
+                    <li>Origem racial ou étnica</li>
+                    <li>Opiniões políticas</li>
+                    <li>Crenças religiosas ou filosóficas</li>
+                    <li>Associação a sindicatos</li>
+                    <li>Dados genéticos ou biométricos</li>
+                    <li>Informações de saúde</li>
+                    <li>Orientação sexual</li>
+                </ul>
+                <p>Se você fornecer voluntariamente tais informações (por exemplo, em conteúdo gerado pelo usuário), você consente com o seu processamento de acordo com esta política.</p>
+            </div>
+
+            <div class="subsection">
+                <h3>16.4 Incentivos Financeiros</h3>
+                <p>Podemos oferecer programas de fidelidade, bônus de recomendação ou outros incentivos que envolvam a coleta de informações pessoais. A participação é voluntária e você pode optar por sair a qualquer momento. O valor de qualquer incentivo é razoavelmente relacionado ao valor dos seus dados para nós.</p>
+            </div>
+        </div>
+
+        <div>
+
+            <h3>2.5 Base Legal para Processamento (Brasil)</h3>
+
+<p>
+De acordo com a Lei Geral de Proteção de Dados Pessoais (<strong>LGPD</strong>, Lei nº 13.709/2018), processamos dados pessoais com base em um ou mais dos seguintes fundamentos jurídicos:
+</p>
+
+<ul>
+  <li>
+    <strong>Consentimento:</strong> Quando o titular dos dados concordou explicitamente com o processamento de seus dados pessoais para finalidades específicas e legítimas.
+  </li>
+  <li>
+    <strong>Cumprimento de Obrigação Legal ou Regulatória:</strong> Quando o processamento é necessário para cumprir requisitos legais ou regulatórios aplicáveis.
+  </li>
+  <li>
+    <strong>Execução de Contrato:</strong> Quando o processamento é necessário para cumprir um contrato ou para realizar procedimentos pré-contratuais a pedido do titular dos dados.
+  </li>
+  <li>
+    <strong>Interesses Legítimos:</strong> Quando o processamento é necessário para atender aos nossos interesses legítimos, desde que tais interesses não prevaleçam sobre os direitos e liberdades fundamentais do titular dos dados.
+  </li>
+  <li>
+    <strong>Exercício Regular de Direitos:</strong> Quando o processamento é necessário para o exercício de direitos em processos judiciais, administrativos ou de arbitragem.
+  </li>
+  <li>
+    <strong>Proteção do Crédito:</strong> Quando aplicável, conforme permitido pela legislação brasileira.
+  </li>
+</ul>
+
+<p>
+Os titulares dos dados têm o direito de retirar o consentimento a qualquer momento, quando o consentimento for a base legal, sem afetar a legalidade do processamento realizado antes de tal retirada.
+</p>
+
+            <p>&copy; 2025 OurStars. Todos os direitos reservados.</p>
+            <p>Esta Política de Privacidade entra em vigor em 25 de dezembro de 2025.</p>
+        </div>
+    </div>
+</body>
+</html>
